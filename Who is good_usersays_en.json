@@ -1,0 +1,19 @@
+[
+  {
+    "id": "1abfc06f-20f9-45bb-b22f-a485ad380521",
+    "data": [
+      {
+        "text": "Who is ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514334498
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "9e6e3a84-7857-4f0d-bc70-1044cc45181a",
+    "data": [
+      {
+        "text": "you are replying too fast",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514384021
+  },
+  {
+    "id": "7c39a564-ccdd-411b-abdf-b363e275f3f7",
+    "data": [
+      {
+        "text": "You are fast",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514384021
+  },
+  {
+    "id": "a2eeaadf-5876-4738-9b30-4c7f12bb1d31",
+    "data": [
+      {
+        "text": "You are very fast",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514384021
+  }
+]

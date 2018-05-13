@@ -1,0 +1,48 @@
+{
+  "id": "38fdc240-9b81-4029-bc44-0d1f1ecf4ae3",
+  "name": "Who is your boss",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Huzaifa Kamran",
+          "subtitle": "",
+          "imageUrl": "https://scontent.fkhi10-1.fna.fbcdn.net/v/t1.0-9/20728331_1885080648409137_1935710661632554601_n.jpg?oh\u003d1f480e2e7dbdc0b095c702d20ce1d360\u0026oe\u003d5AC3A50B",
+          "buttons": [
+            {
+              "text": "fb profile",
+              "postback": "https://www.facebook.com/mohammad.huzaifa.1694"
+            },
+            {
+              "text": "Instagram",
+              "postback": "https://www.instagram.com/huzaifa5286/"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Huzaifa Kamran😎"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513700205,
+  "fallbackIntent": false,
+  "events": []
+}

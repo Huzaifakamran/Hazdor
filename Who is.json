@@ -1,0 +1,60 @@
+{
+  "id": "ba021d17-0afe-4538-829d-ef88f206bd0a",
+  "name": "Who is",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a5eaa6cd-2b10-435b-991e-46045cf4a4c2",
+          "required": false,
+          "dataType": "@peoplename",
+          "name": "peoplename",
+          "value": "$peoplename",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "$peoplename",
+          "imageUrl": "https://blackbearsolutions.nl/wp-content/uploads/2015/06/22545-1-w855h425.jpg",
+          "buttons": [
+            {
+              "text": "Google",
+              "postback": "https://www.google.com.pk/search?source\u003dhp\u0026ei\u003dfTRBWouQB8q4UYr_h6AP\u0026q\u003d$peoplename\u0026oq\u003dna\u0026gs_l\u003dpsy-ab.3.0.0i131i67k1j0i67k1l9.8308.8508.0.10320.3.2.0.0.0.0.235.422.0j1j1.2.0....0...1c.1.64.psy-ab..1.2.420.0..0j35i39k1j0i131k1.0.j_uvbNYfUcs"
+            },
+            {
+              "text": "Wikipedia",
+              "postback": "https://en.wikipedia.org/wiki/$peoplename"
+            },
+            {
+              "text": "Facebook",
+              "postback": "https://www.facebook.com/search/top/?q\u003d$peoplename"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514222211,
+  "fallbackIntent": false,
+  "events": []
+}

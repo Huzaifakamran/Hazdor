@@ -1,0 +1,30 @@
+{
+  "id": "f7f3c173-1e03-4c79-ab18-edfe191382df",
+  "name": "Youtube",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Youtube\nhttps://www.youtube.com/"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514549258,
+  "fallbackIntent": false,
+  "events": []
+}

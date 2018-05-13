@@ -1,0 +1,28 @@
+{
+  "id": "cf31f79a-f0bd-4bf2-9530-9bfabb9752a6",
+  "name": "What\u0027s up",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Fine thank you what about you?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514361864,
+  "fallbackIntent": false,
+  "events": []
+}

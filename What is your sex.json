@@ -1,0 +1,28 @@
+{
+  "id": "1ef6026b-80ea-4ed7-94c8-a6511a87406f",
+  "name": "What is your sex",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Chatbot, there is no sex exist inside Cybertron"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514415839,
+  "fallbackIntent": false,
+  "events": []
+}

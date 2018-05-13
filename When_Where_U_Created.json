@@ -1,0 +1,28 @@
+{
+  "id": "bd7632f5-72a7-4ad4-9d9d-5fab4ba96897",
+  "name": "When_Where_U_Created",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I was created at my boss house on 16 Dec 2017"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514334259,
+  "fallbackIntent": false,
+  "events": []
+}

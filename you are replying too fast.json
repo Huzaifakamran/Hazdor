@@ -1,0 +1,28 @@
+{
+  "id": "36c69805-4151-4d69-aab8-615a29e85b7e",
+  "name": "you are replying too fast",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I am supposed to do so..!!!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514384021,
+  "fallbackIntent": false,
+  "events": []
+}

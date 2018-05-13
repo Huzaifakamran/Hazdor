@@ -1,0 +1,28 @@
+{
+  "id": "f7c4f5d4-fdcf-4baf-9daf-b9ff488305c4",
+  "name": "Welldone",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Thanks,  that\u0027s what I\u0027m here for."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514370629,
+  "fallbackIntent": false,
+  "events": []
+}

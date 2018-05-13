@@ -1,0 +1,47 @@
+{
+  "id": "77f57f5f-6c7b-4484-8309-da8398b3f2ef",
+  "name": "Where do you work",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Huzaifa Kamran",
+          "imageUrl": "https://scontent.fkhi10-1.fna.fbcdn.net/v/t1.0-9/20728331_1885080648409137_1935710661632554601_n.jpg?oh\u003d1f480e2e7dbdc0b095c702d20ce1d360\u0026oe\u003d5AC3A50B",
+          "buttons": [
+            {
+              "text": "fb profile",
+              "postback": "https://www.facebook.com/mohammad.huzaifa.1694"
+            },
+            {
+              "text": "Instagram",
+              "postback": "https://www.instagram.com/huzaifa5286/"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I am a chatbot so there\u0027s no specific place of work for me but I work under the supervision of my boss Huzaifa Kamran, his link is below.."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514059607,
+  "fallbackIntent": false,
+  "events": []
+}

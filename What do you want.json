@@ -1,0 +1,28 @@
+{
+  "id": "68e91aa0-8ae8-45a7-9811-8101b187a9d7",
+  "name": "What do you want",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Nothing!!!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514140896,
+  "fallbackIntent": false,
+  "events": []
+}

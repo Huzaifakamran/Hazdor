@@ -1,0 +1,47 @@
+{
+  "id": "751d275c-8bab-4a59-8284-ee3ff86384f4",
+  "name": "You_are_fired",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Huzaifa Kamran",
+          "imageUrl": "https://scontent.fkhi10-1.fna.fbcdn.net/v/t1.0-9/20728331_1885080648409137_1935710661632554601_n.jpg?oh\u003d1f480e2e7dbdc0b095c702d20ce1d360\u0026oe\u003d5AC3A50B",
+          "buttons": [
+            {
+              "text": "fb profilr",
+              "postback": "https://www.facebook.com/mohammad.huzaifa.1694?lst\u003d100007216597600%3A100007216597600%3A1513711398"
+            },
+            {
+              "text": "instagram",
+              "postback": "https://www.facebook.com/mohammad.huzaifa.1694?lst\u003d100007216597600%3A100007216597600%3A1513711398"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I\u0027m sorry but you can\u0027t fire me, you are not my boss fortunately. My boss is Huzaifa Kamran. If you have any problem regarding my behavior, you can contact him. His link is below."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513711267,
+  "fallbackIntent": false,
+  "events": []
+}

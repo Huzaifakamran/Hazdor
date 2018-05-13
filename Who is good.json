@@ -1,0 +1,28 @@
+{
+  "id": "93ff2b7a-3fb2-435c-9f01-6fc4b4af47c9",
+  "name": "Who is good",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Everyone is good."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514334498,
+  "fallbackIntent": false,
+  "events": []
+}
