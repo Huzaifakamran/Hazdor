@@ -1,0 +1,32 @@
+{
+  "id": "53b93669-8e0f-4313-9400-07328d16d3cb",
+  "name": "Quote_Motivational",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Only I can change my life. No one can do it for me. \nCarol Burnett",
+            "Life is 10% what happens to you and 90% how you react to it.\n Charles R. Swindoll",
+            "Failure will never overtake me if my determination to succeed is strong enough. \nOg Mandino"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513816586,
+  "fallbackIntent": false,
+  "events": []
+}

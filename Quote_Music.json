@@ -1,0 +1,31 @@
+{
+  "id": "44eec153-3231-43e3-bd3f-ffe189b03659",
+  "name": "Quote_Music",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Music is love, love is music, music is life, and I love my life. Thank you and good night.\n A. J. McLean",
+            "One good thing about music, when it hits you, you feel no pain. Bob Marley"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513816695,
+  "fallbackIntent": false,
+  "events": []
+}

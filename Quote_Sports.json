@@ -1,0 +1,28 @@
+{
+  "id": "d4ac205e-2a4d-48bc-8b3f-92b5b936efd9",
+  "name": "Quote_Sports",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sports teaches you character, it teaches you to play by the rules, it teaches you to know what it feels like to win and lose-it teaches you about life. \nBillie Jean King"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513817563,
+  "fallbackIntent": false,
+  "events": []
+}

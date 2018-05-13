@@ -1,0 +1,43 @@
+[
+  {
+    "id": "d7960437-c475-486f-9239-0290931a40a7",
+    "data": [
+      {
+        "text": "Quotation about strength",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513817653
+  },
+  {
+    "id": "1d979c89-af98-476e-a794-d57d56c755ce",
+    "data": [
+      {
+        "text": "Quote for strength",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513817653
+  },
+  {
+    "id": "37be1736-d2ca-4529-8efc-c4f386f8212b",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for strength",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513817653
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "9b699858-1ca1-407b-a087-133c118fec39",
+  "name": "Quote_Change",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Only I can change my life. No one can do it for me.\n Carol Burnett"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513811806,
+  "fallbackIntent": false,
+  "events": []
+}

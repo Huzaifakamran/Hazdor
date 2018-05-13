@@ -1,0 +1,28 @@
+{
+  "id": "e8712680-7d5e-4b0b-a3af-e26cfaa971e2",
+  "name": "Quote_Independence",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Every human has four endowments - self awareness, conscience, independent will and creative imagination. These give us the ultimate human freedom... The power to choose, to respond, to change.\n Stephen Covey"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513815275,
+  "fallbackIntent": false,
+  "events": []
+}

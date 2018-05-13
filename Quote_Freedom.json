@@ -1,0 +1,28 @@
+{
+  "id": "3544b608-190c-466c-8bd2-04286ca066f8",
+  "name": "Quote_Freedom",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The secret to happiness is freedom... And the secret to freedom is courage. \nThucydides"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513814137,
+  "fallbackIntent": false,
+  "events": []
+}

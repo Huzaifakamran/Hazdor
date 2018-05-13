@@ -1,0 +1,42 @@
+[
+  {
+    "id": "36a0d35a-810a-4696-b187-2af120e5f25c",
+    "data": [
+      {
+        "text": "Quote about life",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513806240
+  },
+  {
+    "id": "425e1905-907c-4258-a240-1f1db4dddfc6",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for life",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513806240
+  },
+  {
+    "id": "4e4bdb28-14ee-4dee-a1e4-f7e28ba0fb59",
+    "data": [
+      {
+        "text": "Quotation about life",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

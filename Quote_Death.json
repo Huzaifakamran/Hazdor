@@ -1,0 +1,28 @@
+{
+  "id": "d2af80b0-4f8c-48b7-ab68-15adb27d1de3",
+  "name": "Quote_Death",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Death is not the greatest loss in life. The greatest loss is what dies inside us while we live. Norman Cousins"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513812522,
+  "fallbackIntent": false,
+  "events": []
+}

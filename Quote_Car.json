@@ -1,0 +1,28 @@
+{
+  "id": "b0bb8707-dce6-44c3-8c8a-a1c4c7249434",
+  "name": "Quote_Car",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I race to win. If I am on the bike or in a car it will always be the same. \nValentino Rossi"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513811538,
+  "fallbackIntent": false,
+  "events": []
+}

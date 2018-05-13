@@ -1,0 +1,43 @@
+[
+  {
+    "id": "c35d6718-2b10-45e4-9738-8e797d92ab80",
+    "data": [
+      {
+        "text": "Quote about motivation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513816586
+  },
+  {
+    "id": "769ef591-cab1-4e53-95b5-3b32dbae21bf",
+    "data": [
+      {
+        "text": "Quote for motivational",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513816586
+  },
+  {
+    "id": "f79d5b2d-d332-4025-a054-8e8b7c278094",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for motivation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513816586
+  }
+]

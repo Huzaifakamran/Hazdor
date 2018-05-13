@@ -1,0 +1,28 @@
+{
+  "id": "9bd19f9f-24db-404f-a753-cdec64d5fb23",
+  "name": "Quote_Fitness",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Take care of your body. It\u0027s the only place you have to live. \nJim Rohn"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513813954,
+  "fallbackIntent": false,
+  "events": []
+}

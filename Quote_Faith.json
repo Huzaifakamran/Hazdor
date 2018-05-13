@@ -1,0 +1,28 @@
+{
+  "id": "57c580c0-4db0-467c-be72-43502ea2d565",
+  "name": "Quote_Faith",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Life is full of happiness and tears; be strong and have faith. \nKareena Kapoor Khan"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513813669,
+  "fallbackIntent": false,
+  "events": []
+}

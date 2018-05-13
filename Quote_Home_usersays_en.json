@@ -1,0 +1,43 @@
+[
+  {
+    "id": "72abc645-a07c-4d6e-8940-03a3589d0192",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513814988
+  },
+  {
+    "id": "dc0d9385-8a7c-4db6-a614-6f5a579fafdd",
+    "data": [
+      {
+        "text": "Quotation about home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513814988
+  },
+  {
+    "id": "7001d497-623f-4243-9949-c9663ab3661a",
+    "data": [
+      {
+        "text": "Quote for home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513814988
+  }
+]

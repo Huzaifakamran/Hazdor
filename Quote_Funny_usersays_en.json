@@ -1,0 +1,43 @@
+[
+  {
+    "id": "ea0009bc-de2d-43ef-a371-c84bc8221328",
+    "data": [
+      {
+        "text": "Quote for funny",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513814353
+  },
+  {
+    "id": "cef5728a-7d7f-4141-a95f-4f269500c2a1",
+    "data": [
+      {
+        "text": "Quotation about funny",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513814353
+  },
+  {
+    "id": "9868f00d-3819-4c9d-9f5c-d554176f4c19",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for funny",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513814353
+  }
+]

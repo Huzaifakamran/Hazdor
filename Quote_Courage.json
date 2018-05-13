@@ -1,0 +1,28 @@
+{
+  "id": "33039f2d-0735-427d-93b5-2840f6a337bb",
+  "name": "Quote_Courage",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. Lao Tzu"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513812123,
+  "fallbackIntent": false,
+  "events": []
+}

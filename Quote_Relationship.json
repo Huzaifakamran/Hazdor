@@ -1,0 +1,28 @@
+{
+  "id": "649cbe88-2568-4573-8b1b-0b28adfd8b1d",
+  "name": "Quote_Relationship",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "When someone shows you who they are, believe them the first time.\n Maya Angelou"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513817062,
+  "fallbackIntent": false,
+  "events": []
+}

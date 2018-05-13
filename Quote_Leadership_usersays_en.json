@@ -1,0 +1,43 @@
+[
+  {
+    "id": "38aa2307-789a-40c4-8a7c-4f6400cd7d4a",
+    "data": [
+      {
+        "text": "Quotation about leadership",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513815974
+  },
+  {
+    "id": "35f3903f-be4c-4f36-affb-9af2b90ee6fc",
+    "data": [
+      {
+        "text": "Quote for leadership",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513815974
+  },
+  {
+    "id": "2fabaa3d-bc40-4ad9-a364-6f06c192cc0f",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for leadership",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513815974
+  }
+]

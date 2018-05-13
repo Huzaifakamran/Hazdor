@@ -1,0 +1,43 @@
+[
+  {
+    "id": "2e5cbefc-9a53-473a-b3fa-3da611f8707d",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for family",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513813758
+  },
+  {
+    "id": "1e168cc6-f421-4d07-864f-2cfc9a99f519",
+    "data": [
+      {
+        "text": "Quote for family",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513813758
+  },
+  {
+    "id": "809eb431-c150-4b7c-ae1b-e750468ce14e",
+    "data": [
+      {
+        "text": "Quotation about family",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513813758
+  }
+]

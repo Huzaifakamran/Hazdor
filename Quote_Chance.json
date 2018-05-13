@@ -1,0 +1,28 @@
+{
+  "id": "954f55fa-1b7f-40d3-86ad-7892c6af0973",
+  "name": "Quote_Chance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Cheers to a new year and another chance for us to get it right.\n Oprah Winfrey"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513811659,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,43 @@
+[
+  {
+    "id": "b24b071e-2622-4a33-bc76-4813121bf741",
+    "data": [
+      {
+        "text": "Quotation about failure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513813502
+  },
+  {
+    "id": "43399195-2d6b-4dd2-8961-17dfec072b51",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for failure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513813502
+  },
+  {
+    "id": "56b0db2b-6f1a-46af-8a28-e3bbdb78b607",
+    "data": [
+      {
+        "text": "Quote for failure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513813502
+  }
+]

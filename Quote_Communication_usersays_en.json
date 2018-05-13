@@ -1,0 +1,43 @@
+[
+  {
+    "id": "578e3313-b0f9-48d2-b45b-c4beab39e532",
+    "data": [
+      {
+        "text": "Quotation about communication",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513811944
+  },
+  {
+    "id": "f9d47025-e453-405a-9930-d4c521e16618",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for communication",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513811944
+  },
+  {
+    "id": "239c7ed0-0cc5-40c8-861f-1f41c6b5b636",
+    "data": [
+      {
+        "text": "Quote for communication",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513811944
+  }
+]

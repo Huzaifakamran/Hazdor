@@ -1,0 +1,43 @@
+[
+  {
+    "id": "9e7063bf-232f-46ef-879a-86929aaee9d4",
+    "data": [
+      {
+        "text": "Quote for change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513811806
+  },
+  {
+    "id": "104775b0-8757-4f67-b91d-94c8552dc84c",
+    "data": [
+      {
+        "text": "Quotation about change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513811806
+  },
+  {
+    "id": "48414444-98b2-4ec3-90e2-8ada14eff7b1",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513811806
+  }
+]

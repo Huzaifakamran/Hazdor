@@ -1,0 +1,43 @@
+[
+  {
+    "id": "3f0ebef3-e516-4a14-a193-5ea08d766bff",
+    "data": [
+      {
+        "text": "Quotation about sad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513817338
+  },
+  {
+    "id": "f4d5c71c-9a8b-496b-bb98-26821a8a3d21",
+    "data": [
+      {
+        "text": "Quote for sad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513817338
+  },
+  {
+    "id": "7a3bcd31-0794-422a-912b-f03c2451685e",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for sad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513817338
+  }
+]

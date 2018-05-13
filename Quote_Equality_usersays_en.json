@@ -1,0 +1,53 @@
+[
+  {
+    "id": "e95fdb9a-be33-4c53-87a9-2f5039e86f3d",
+    "data": [
+      {
+        "text": "Quotation about equality",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513813382
+  },
+  {
+    "id": "0c8b9acd-6938-46d0-a865-7c4955190b92",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for ",
+        "userDefined": false
+      },
+      {
+        "text": "equality",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513813382
+  },
+  {
+    "id": "b622f0c7-d7de-49f4-b156-5b58ca321a87",
+    "data": [
+      {
+        "text": "Quote for ",
+        "userDefined": false
+      },
+      {
+        "text": "equality",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513813382
+  }
+]

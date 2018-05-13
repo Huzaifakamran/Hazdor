@@ -1,0 +1,31 @@
+{
+  "id": "1c7689a6-6256-4faf-b430-95425dbc234c",
+  "name": "Quote_Dad",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "One of the greatest titles in the world is parent, and one of the biggest blessings in the world is to have parents to call mom and dad. \nJim DeMint",
+            "A father is a man who expects his son to be as good a man as he meant to be. \nFrank A. Clark"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513812244,
+  "fallbackIntent": false,
+  "events": []
+}

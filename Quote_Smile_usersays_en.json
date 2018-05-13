@@ -1,0 +1,43 @@
+[
+  {
+    "id": "90597b79-118b-43f8-81ef-b1c5d1d8bb86",
+    "data": [
+      {
+        "text": "Quotation about smile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513809912
+  },
+  {
+    "id": "8cf2701a-cb84-4cd6-8029-8ece967f7581",
+    "data": [
+      {
+        "text": "Quote for smile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513809912
+  },
+  {
+    "id": "f1463ed2-7dda-4392-bf20-63fb1624cd7a",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for smile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513809912
+  }
+]

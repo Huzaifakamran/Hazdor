@@ -1,0 +1,32 @@
+{
+  "id": "c40de573-b7df-468a-bb78-4324af768b26",
+  "name": "Quote_life",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "There is only one happiness in this life, to love and be loved. \nGeorge Sand",
+            "Life is 10% what happens to you and 90% how you react to it. \nCharles R. Swindoll",
+            "Smile in the mirror. Do that every morning and you\u0027ll start to see a big difference in your life. Yoko Ono"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513806240,
+  "fallbackIntent": false,
+  "events": []
+}

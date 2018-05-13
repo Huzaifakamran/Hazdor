@@ -1,0 +1,28 @@
+{
+  "id": "1f217c1a-1a59-47ca-a7c2-a2d99a1f12de",
+  "name": "Quote_God",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "When I wake up every morning, I thank God for the new day. \nF. Sionil Jose"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513814491,
+  "fallbackIntent": false,
+  "events": []
+}

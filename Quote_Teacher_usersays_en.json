@@ -1,0 +1,43 @@
+[
+  {
+    "id": "ed0e2cff-14a4-46b0-a4df-5555148e8e2a",
+    "data": [
+      {
+        "text": "Quote for teacher",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513817812
+  },
+  {
+    "id": "9437af45-12f0-41d8-a368-9b76b77a9d78",
+    "data": [
+      {
+        "text": "Quotation about teacher",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513817812
+  },
+  {
+    "id": "583dc32b-b24c-45b5-af43-d92ef82b3ae2",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for teacher",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513817812
+  }
+]

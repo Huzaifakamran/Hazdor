@@ -1,0 +1,32 @@
+{
+  "id": "79c3791b-690f-4cc9-8e42-f12fda690678",
+  "name": "Quote_Silence",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "In the End, we will remember not the words of our enemies, but the silence of our friends. Martin Luther King, Jr.",
+            "Silence is a true friend who never betrays. \nConfucius",
+            "Silence is a source of great strength\n. Lao Tzu"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513810148,
+  "fallbackIntent": false,
+  "events": []
+}

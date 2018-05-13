@@ -1,0 +1,43 @@
+[
+  {
+    "id": "060a397e-54de-4ee1-a672-f18ac490c8c8",
+    "data": [
+      {
+        "text": "Quotation about religion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513817265
+  },
+  {
+    "id": "37759f31-35ec-4acf-be2d-4adfb05c8689",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for religion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513817265
+  },
+  {
+    "id": "c8896041-ba7d-4a5e-9e2e-ba96b99fb879",
+    "data": [
+      {
+        "text": "Quote for religion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513817265
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "cfb6a658-d6e3-415e-b2e3-5b7f6b833c0f",
+  "name": "Quote_Happiness",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Be happy for this moment. This moment is your life. \nOmar Khayyam",
+            "Happiness is not something you postpone for the future; it is something you design for the present. Jim Rohn"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513814594,
+  "fallbackIntent": false,
+  "events": []
+}

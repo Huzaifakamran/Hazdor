@@ -1,0 +1,43 @@
+[
+  {
+    "id": "e81ac5c4-e010-411d-920b-4f3041e49671",
+    "data": [
+      {
+        "text": "Quote for happiness",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513814594
+  },
+  {
+    "id": "b692770f-5ffd-4e42-bddf-198ab40bbcfd",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for happiness",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513814594
+  },
+  {
+    "id": "c308a3b1-2687-4056-9198-a14a04cb6162",
+    "data": [
+      {
+        "text": "Quotaion about happiness",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513814594
+  }
+]

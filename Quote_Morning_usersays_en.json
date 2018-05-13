@@ -1,0 +1,48 @@
+[
+  {
+    "id": "baf8f9a3-5102-4911-bce5-84ea2a9906ea",
+    "data": [
+      {
+        "text": "Quote for ",
+        "userDefined": false
+      },
+      {
+        "text": "morning",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513816330
+  },
+  {
+    "id": "2c9d1c9e-b041-4382-8d20-aa8f44d5363e",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513816330
+  },
+  {
+    "id": "2b705d14-a043-4500-ad58-aa875432fffa",
+    "data": [
+      {
+        "text": "Quotation about morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513816330
+  }
+]

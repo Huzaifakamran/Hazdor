@@ -1,0 +1,28 @@
+{
+  "id": "38e9d263-dd2e-41c4-a90f-160be1823fba",
+  "name": "Quote_Communication",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Wise men speak because they have something to say; Fools because they have to say something. \nPlato"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513811944,
+  "fallbackIntent": false,
+  "events": []
+}

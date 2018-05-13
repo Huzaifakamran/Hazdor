@@ -1,0 +1,43 @@
+[
+  {
+    "id": "142de0a6-bdbf-4afa-ab9a-c0d3761b5bf5",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for romantic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513809674
+  },
+  {
+    "id": "bc84ef20-6e55-48c7-b231-ee5a1a7f2b60",
+    "data": [
+      {
+        "text": "Quotation for romance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513809674
+  },
+  {
+    "id": "a2cd3019-585a-44fa-b902-f1458862bfae",
+    "data": [
+      {
+        "text": "Quote about romance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513809674
+  }
+]

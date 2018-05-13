@@ -1,0 +1,31 @@
+{
+  "id": "ecf37a24-02f3-4c71-b676-03e4aaaa2415",
+  "name": "Quote_Home",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Nothing is better than going home to family and eating good food and relaxing. \nIrina Shayk",
+            "Every day is a journey, and the journey itself is home. \nMatsuo Basho"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513814988,
+  "fallbackIntent": false,
+  "events": []
+}

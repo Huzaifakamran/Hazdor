@@ -1,0 +1,32 @@
+{
+  "id": "448bd152-9d21-4637-b0f8-046da67384da",
+  "name": "Quote_Education",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Education is the most powerful weapon which you can use to change the world.\n Nelson Mandela",
+            "An investment in knowledge pays the best interest. \nBenjamin Franklin",
+            "The roots of education are bitter, but the fruit is sweet. Aristotle"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513813107,
+  "fallbackIntent": false,
+  "events": []
+}

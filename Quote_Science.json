@@ -1,0 +1,28 @@
+{
+  "id": "0ef24e19-67aa-4dd9-86eb-2e13fb42ff25",
+  "name": "Quote_Science",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The science of today is the technology of tomorrow. \nEdward Teller"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513817454,
+  "fallbackIntent": false,
+  "events": []
+}

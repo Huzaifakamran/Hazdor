@@ -1,0 +1,43 @@
+[
+  {
+    "id": "9144738d-322c-42f6-8d4e-644af0a9c324",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for imagination",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513815116
+  },
+  {
+    "id": "948f2465-8296-4421-a2d3-8c1c13f8f83f",
+    "data": [
+      {
+        "text": "Quotation about imagination",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513815116
+  },
+  {
+    "id": "916b9f99-348b-4de8-a2bc-b563aff921e2",
+    "data": [
+      {
+        "text": "Quote for imagination",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513815116
+  }
+]

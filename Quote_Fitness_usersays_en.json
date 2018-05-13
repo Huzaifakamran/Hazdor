@@ -1,0 +1,43 @@
+[
+  {
+    "id": "06412127-d04a-4627-9ee3-a8937b69a595",
+    "data": [
+      {
+        "text": "Quote for fitness",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513813954
+  },
+  {
+    "id": "da367999-bf0b-4083-803a-58938aead4f0",
+    "data": [
+      {
+        "text": "Quotation about fitness",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513813954
+  },
+  {
+    "id": "e259c3c1-51a4-4a3f-8cc1-7c9d75fa1386",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for fitness",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513813954
+  }
+]

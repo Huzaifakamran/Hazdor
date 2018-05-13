@@ -1,0 +1,28 @@
+{
+  "id": "f507f5ec-ea6a-459b-9648-7090f3791d28",
+  "name": "Quote_Funny",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Do not take life too seriously. You will never get out of it alive. \nElbert Hubbard"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513814353,
+  "fallbackIntent": false,
+  "events": []
+}

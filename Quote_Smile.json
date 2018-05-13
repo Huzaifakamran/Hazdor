@@ -1,0 +1,32 @@
+{
+  "id": "6cfe09d7-2797-4121-bc55-dbed197bf955",
+  "name": "Quote_Smile",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Share your smile with the world. It\u0027s a symbol of friendship and peace.\n Christie Brinkley",
+            "Because of your smile, you make life more beautiful. \nThich Nhat Hanh",
+            "Beauty is power; a smile is its sword. \nJohn Ray"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513809912,
+  "fallbackIntent": false,
+  "events": []
+}

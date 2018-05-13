@@ -1,0 +1,28 @@
+{
+  "id": "4dd12455-43e5-44bf-a633-8dd6d04b8ddb",
+  "name": "Quote_Failure",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure. \nColin Powell"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513813502,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,43 @@
+[
+  {
+    "id": "44f3d02e-b765-4f4e-973b-b60203887f12",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for dreams",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513812791
+  },
+  {
+    "id": "86df93fc-9103-49c7-af32-d6a64e41df5a",
+    "data": [
+      {
+        "text": "Quote for dream",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513812791
+  },
+  {
+    "id": "8be51637-eaa6-4788-8015-e50edde19051",
+    "data": [
+      {
+        "text": "Quotation about dreams",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513812791
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "id": "7595acf8-55c8-4123-9db8-97a312a8bc91",
+    "data": [
+      {
+        "text": "Quotes about ",
+        "userDefined": false
+      },
+      {
+        "text": "friends",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a26e91f0-7c7b-4ad9-9a1a-dea271e5b833",
+    "data": [
+      {
+        "text": "Quotation about ",
+        "userDefined": false
+      },
+      {
+        "text": "friends",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cc9ef26b-a68a-4c13-9828-3e7642853411",
+    "data": [
+      {
+        "text": "Quotation about friendship",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513814275
+  },
+  {
+    "id": "0600f00b-61ab-496b-b14f-b850ada44cd3",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for friendship",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513814275
+  },
+  {
+    "id": "047705a4-6e15-4f0c-ace3-777b74f98e67",
+    "data": [
+      {
+        "text": "Quote for friendship",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513814275
+  }
+]

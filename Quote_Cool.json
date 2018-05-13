@@ -1,0 +1,28 @@
+{
+  "id": "c7c8bb64-6e82-4393-a715-79f1d755fdad",
+  "name": "Quote_Cool",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Being cool is being your own self, not doing something that someone else is telling you to do. Vanessa Hudgens"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513812029,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "4a714569-772a-4c17-8fb2-d0722f4f277e",
+  "name": "Quote_Religion",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You cannot believe in God until you believe in yourself. \nSwami Vivekananda"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513817265,
+  "fallbackIntent": false,
+  "events": []
+}

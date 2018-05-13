@@ -1,0 +1,28 @@
+{
+  "id": "b31f6019-d036-4e65-b156-74cd3f06eea8",
+  "name": "Quote_Sad",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Some days are just bad days, that\u0027s all. You have to experience sadness to know happiness, and I remind myself that not every day is going to be a good day, that\u0027s just the way it is! Dita Von Teese"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513817338,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "e2d8a8dd-b03f-4240-9d9f-7cdc6256ca62",
+  "name": "Quote_Morning",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Opportunities are like sunrises. If you wait too long, you miss them. \nWilliam Arthur Ward"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513816330,
+  "fallbackIntent": false,
+  "events": []
+}

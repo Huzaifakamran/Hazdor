@@ -1,0 +1,40 @@
+{
+  "id": "8530b66b-2e87-4089-ae93-5a74b87bbbb1",
+  "name": "Quote_Inspiratational",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3ad0dd61-a9ba-4ef3-ac40-1de953fbb1c4",
+          "dataType": "@peoplename",
+          "name": "peoplename",
+          "value": "$peoplename",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.\n Helen Keller",
+            "The best preparation for tomorrow is doing your best today.\n H. Jackson Brown, Jr.",
+            "Put your heart, mind, and soul into even your smallest acts. This is the secret of success. Swami Sivananda"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513807006,
+  "fallbackIntent": false,
+  "events": []
+}

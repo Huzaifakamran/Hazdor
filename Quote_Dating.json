@@ -1,0 +1,28 @@
+{
+  "id": "f00dbc5e-827d-49fe-824b-3fa408a64445",
+  "name": "Quote_Dating",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No matter how love-sick a woman is, she shouldn\u0027t take the first pill that comes along. \nJoyce Brothers"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513812353,
+  "fallbackIntent": false,
+  "events": []
+}

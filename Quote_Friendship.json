@@ -1,0 +1,32 @@
+{
+  "id": "301ced32-8c44-409e-abab-139db9efb97a",
+  "name": "Quote_Friendship",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "The greatest gift of life is friendship, and I have received it. \nHubert H. Humphrey",
+            "Friends show their love in times of trouble, not in happiness. \nEuripides",
+            "One of the most beautiful qualities of true friendship is to understand and to be understood. Lucius Annaeus Seneca"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513814275,
+  "fallbackIntent": false,
+  "events": []
+}

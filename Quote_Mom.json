@@ -1,0 +1,32 @@
+{
+  "id": "4d61c408-ef70-46f3-88e8-5ff563dbc57c",
+  "name": "Quote_Mom",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "The heart of a mother is a deep abyss at the bottom of which you will always find forgiveness.\n Honore de Balzac",
+            "My mother had a great deal of trouble with me, but I think she enjoyed it. \nMark Twain",
+            "My mom has always been my support system. She taught me to never give up and to keep pursuing my passions no matter what. \nMandy Moore"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513816215,
+  "fallbackIntent": false,
+  "events": []
+}

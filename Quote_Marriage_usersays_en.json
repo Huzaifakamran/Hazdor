@@ -1,0 +1,43 @@
+[
+  {
+    "id": "f39352fc-de9c-4bb5-bbd9-f3f74844daef",
+    "data": [
+      {
+        "text": "Quotation about marriage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513816063
+  },
+  {
+    "id": "c425bb24-a011-4cbf-9e3f-00004f6d5f85",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for marriage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513816063
+  },
+  {
+    "id": "6a4bf778-6421-470e-87a1-d3d5ed83fb6a",
+    "data": [
+      {
+        "text": "Quote for marriage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513816063
+  }
+]

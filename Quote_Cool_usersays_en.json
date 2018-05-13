@@ -1,0 +1,43 @@
+[
+  {
+    "id": "60e5fd3d-2014-4b6a-a1c8-bcb215311cef",
+    "data": [
+      {
+        "text": "Quote for cool",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513812029
+  },
+  {
+    "id": "cf700672-5434-45a1-9235-f124a19ce11c",
+    "data": [
+      {
+        "text": "Quotation about cool",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513812029
+  },
+  {
+    "id": "4982fe39-4210-4ef3-8e24-bdaae7826da2",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for cool",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513812029
+  }
+]

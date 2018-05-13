@@ -1,0 +1,43 @@
+[
+  {
+    "id": "b6b93cbd-3c1a-471d-a979-cdd9020001fc",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for sport",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513817563
+  },
+  {
+    "id": "050235fa-e39b-412e-8197-07fb3d75c909",
+    "data": [
+      {
+        "text": "Quotation about sports",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513817563
+  },
+  {
+    "id": "b5a1cd73-c432-4b8d-92a5-d8bbd183eba1",
+    "data": [
+      {
+        "text": "Quote for sports",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513817563
+  }
+]

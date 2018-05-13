@@ -1,0 +1,43 @@
+[
+  {
+    "id": "04cbbbee-6c7b-4000-88bb-e3d92f663c41",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for diet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513812611
+  },
+  {
+    "id": "351844b1-04e1-4ee2-9ecf-86c556f88e0e",
+    "data": [
+      {
+        "text": "Quote for diet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513812611
+  },
+  {
+    "id": "3d881821-e26b-48fd-9991-7a06ce3f4efc",
+    "data": [
+      {
+        "text": "Quotation about diet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513812611
+  }
+]

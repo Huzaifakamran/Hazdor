@@ -1,0 +1,32 @@
+{
+  "id": "a40667e7-db75-42de-8ac5-df8cfba04fae",
+  "name": "Quote_Knwoledge",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "An investment in knowledge pays the best interest. \nBenjamin Franklin",
+            "For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone. \nAudrey Hepburn",
+            "Knowledge is power. Information is liberating. Education is the premise of progress, in every society, in every family. \nKofi Annan"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513806709,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "d30a47fa-8722-48e2-81df-8ccaab8341b9",
+  "name": "Quote_Intelligence",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "An intelligent man is sometimes forced to be drunk to spend time with his fools.\n Ernest Hemingway",
+            "I don\u0027t even call it violence when it\u0027s in self-defense; I call it intelligence. \nMalcolm X"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513815624,
+  "fallbackIntent": false,
+  "events": []
+}

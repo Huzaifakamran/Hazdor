@@ -1,0 +1,43 @@
+[
+  {
+    "id": "4437a5aa-bec3-4562-afde-549b82b2287a",
+    "data": [
+      {
+        "text": "Quote for car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513811538
+  },
+  {
+    "id": "548821d4-47ab-49dc-8956-96f4b33f5aa9",
+    "data": [
+      {
+        "text": "Quotation about car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513811538
+  },
+  {
+    "id": "3d23161f-5462-4569-8ee5-3fdb5255e38e",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513811538
+  }
+]

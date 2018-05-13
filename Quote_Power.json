@@ -1,0 +1,28 @@
+{
+  "id": "182043f6-1ecf-40ed-bb68-84ab6b1bbdf1",
+  "name": "Quote_Power",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Nearly all men can stand adversity, but if you want to test a man\u0027s character, give him power. Abraham Lincoln"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513816791,
+  "fallbackIntent": false,
+  "events": []
+}

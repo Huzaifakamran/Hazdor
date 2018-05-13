@@ -1,0 +1,43 @@
+[
+  {
+    "id": "2055e9b7-82f3-43e9-a24b-f7ec9988191c",
+    "data": [
+      {
+        "text": "Quotation about music",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513816695
+  },
+  {
+    "id": "7eeb77a9-c601-4a0c-ac1f-abe6b70309c7",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for music",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513816695
+  },
+  {
+    "id": "705868c3-5aee-44c6-9cd8-437f3fd5303a",
+    "data": [
+      {
+        "text": "Quote for music",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513816695
+  }
+]

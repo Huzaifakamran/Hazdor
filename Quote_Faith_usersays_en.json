@@ -1,0 +1,58 @@
+[
+  {
+    "id": "3e15acdc-a4cf-41e4-8220-4a672f850fcd",
+    "data": [
+      {
+        "text": "Quotation about ",
+        "userDefined": false
+      },
+      {
+        "text": "faith",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513813669
+  },
+  {
+    "id": "3f2b5268-8987-43ff-b2d0-c05d3d8857f6",
+    "data": [
+      {
+        "text": "Quote for ",
+        "userDefined": false
+      },
+      {
+        "text": "faith",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513813669
+  },
+  {
+    "id": "a7fc14d7-cbff-4007-b59b-b19dd3f435dd",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for ",
+        "userDefined": false
+      },
+      {
+        "text": "faith",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513813669
+  }
+]

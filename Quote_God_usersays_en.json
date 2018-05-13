@@ -1,0 +1,43 @@
+[
+  {
+    "id": "b2bf8a70-510e-468c-a0eb-a6f7ac2d461f",
+    "data": [
+      {
+        "text": "Quotation about god",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513814491
+  },
+  {
+    "id": "ea3770c9-2607-485f-966c-0a24eeb1247e",
+    "data": [
+      {
+        "text": "Quote for god",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513814491
+  },
+  {
+    "id": "a16f513e-efcb-4529-ae1d-9005858b3753",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for god",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513814491
+  }
+]

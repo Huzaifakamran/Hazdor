@@ -1,0 +1,43 @@
+[
+  {
+    "id": "b4640b13-ee8a-457e-984e-c8cf4d2c60b9",
+    "data": [
+      {
+        "text": "Quote for intelligence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513815624
+  },
+  {
+    "id": "979a3d43-73df-4c27-a1dd-5298f5ff50cf",
+    "data": [
+      {
+        "text": "Quotation about intelligence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513815624
+  },
+  {
+    "id": "078c948b-9ef1-4c13-953c-3169c2c567e5",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for intelligence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513815624
+  }
+]

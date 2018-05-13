@@ -1,0 +1,43 @@
+[
+  {
+    "id": "9c44fcf1-2027-405f-bc7d-ebb19bd9f4bf",
+    "data": [
+      {
+        "text": "Quotation about relationship",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513817062
+  },
+  {
+    "id": "2497e2aa-e1e6-41be-b3f8-cde052aff439",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for relationship",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513817062
+  },
+  {
+    "id": "a11644e4-ffa7-4065-9a90-d1a0d5300c04",
+    "data": [
+      {
+        "text": "Quote for relationship",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513817062
+  }
+]

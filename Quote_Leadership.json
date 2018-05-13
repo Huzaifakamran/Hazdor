@@ -1,0 +1,31 @@
+{
+  "id": "7754fb5c-f6ae-42dd-b681-240e93dd8a59",
+  "name": "Quote_Leadership",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "A leader is one who knows the way, goes the way, and shows the way. \nJohn C. Maxwell",
+            "Leadership is not about a title or a designation. It\u0027s about impact, influence and inspiration. Impact involves getting results, influence is about spreading the passion you have for your work, and you have to inspire team-mates and customers.\n Robin S. Sharma"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513815974,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,43 @@
+[
+  {
+    "id": "2446316a-076f-4916-b5ab-974a8ac06c7a",
+    "data": [
+      {
+        "text": "Quotation about courage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513812123
+  },
+  {
+    "id": "6d41090c-4ecf-42a0-b67b-7ba83875523c",
+    "data": [
+      {
+        "text": "Quote for courage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513812123
+  },
+  {
+    "id": "0bb08e88-0b4c-4ace-a118-92515a6ceb13",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for courage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513812123
+  }
+]

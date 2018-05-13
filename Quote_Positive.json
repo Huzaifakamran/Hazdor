@@ -1,0 +1,28 @@
+{
+  "id": "7bba8241-94a6-4bfc-b31d-51c5e75e4c03",
+  "name": "Quote_Positive",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Stay positive and happy. Work hard and don\u0027t give up hope. Be open to criticism and keep learning. Surround yourself with happy, warm and genuine people. \nTena Desae"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513816953,
+  "fallbackIntent": false,
+  "events": []
+}

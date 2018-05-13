@@ -1,0 +1,28 @@
+{
+  "id": "683e7be2-054c-4090-9a9d-5324ab08ce4d",
+  "name": "Quote_Forgiveness",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The weak can never forgive. Forgiveness is the attribute of the strong.\n Mahatma Gandhi"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513814047,
+  "fallbackIntent": false,
+  "events": []
+}

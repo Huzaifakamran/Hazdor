@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c3e3dbe9-dd2b-4eba-9100-8fdcb8d6f683",
+    "data": [
+      {
+        "text": "Best",
+        "alias": "peoplename",
+        "meta": "@peoplename",
+        "userDefined": false
+      },
+      {
+        "text": " quote for Inspirational",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d148dcf6-6e38-4c26-8553-89a65425dcce",
+    "data": [
+      {
+        "text": "Quote for inspirational",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7bf089ee-93cc-4198-bbad-2c4c4c145dde",
+    "data": [
+      {
+        "text": "Quotation about inspirational",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "id": "c5f4a7a9-a83f-4e75-bb39-24e473ceae3e",
+  "name": "Quote_love",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Being deeply loved by someone gives you strength while loving someone deeply gives you courage. Lao Tzu",
+            "Love is when the other person\u0027s happiness is more important than your own. H. Jackson Brown, Jr.",
+            "Love may be or it may not, but where it is, it ought to reveal itself in its immensity. Honore de Balzac"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513805507,
+  "fallbackIntent": false,
+  "events": []
+}

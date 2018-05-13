@@ -1,0 +1,28 @@
+{
+  "id": "40243f56-48b8-44ae-9399-de3735038655",
+  "name": "Quote_Marriage",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "A successful marriage requires falling in love many times, always with the same person. Mignon McLaughlin"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513816063,
+  "fallbackIntent": false,
+  "events": []
+}

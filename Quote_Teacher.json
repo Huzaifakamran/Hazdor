@@ -1,0 +1,31 @@
+{
+  "id": "db2bbaec-859f-4d55-a6ac-8b7f75b1bcdd",
+  "name": "Quote_Teacher",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "A good teacher can inspire hope, ignite the imagination, and instill a love of learning.\n Brad Henry",
+            "Let us remember: One book, one pen, one child, and one teacher can change the world. Malala Yousafzai"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513817812,
+  "fallbackIntent": false,
+  "events": []
+}

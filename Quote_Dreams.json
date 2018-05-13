@@ -1,0 +1,32 @@
+{
+  "id": "8eb2bdc8-b11e-42ac-8990-d3b55c7e50fb",
+  "name": "Quote_Dreams",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "A dream doesn\u0027t become reality through magic; it takes sweat, determination and hard work. Colin Powell",
+            "The future belongs to those who believe in the beauty of their dreams. \nEleanor Roosevelt",
+            "All our dreams can come true, if we have the courage to pursue them. \nWalt Disney"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513812791,
+  "fallbackIntent": false,
+  "events": []
+}

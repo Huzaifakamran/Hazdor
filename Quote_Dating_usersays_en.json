@@ -1,0 +1,43 @@
+[
+  {
+    "id": "62c86bfb-2234-4781-beec-122c6b1a33d5",
+    "data": [
+      {
+        "text": "Quote about dating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513812353
+  },
+  {
+    "id": "50503908-15c7-4b3d-a65d-9549016008a9",
+    "data": [
+      {
+        "text": "Quotation about dating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513812353
+  },
+  {
+    "id": "410f29e6-d8d4-4ad0-9d66-27ff8074dec8",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for dating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513812353
+  }
+]

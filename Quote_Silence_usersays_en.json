@@ -1,0 +1,43 @@
+[
+  {
+    "id": "3d8a079f-930a-4d3e-90f4-a74338cf02ca",
+    "data": [
+      {
+        "text": "Quotation about silence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513810148
+  },
+  {
+    "id": "9e0a8282-729b-4f21-ab68-c1b11e65a59d",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for silence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513810148
+  },
+  {
+    "id": "bcf27b0f-ef65-4879-b557-c4528d144614",
+    "data": [
+      {
+        "text": "Quote about silence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513810148
+  }
+]

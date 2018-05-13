@@ -1,0 +1,32 @@
+{
+  "id": "6b53ca52-4352-4851-aed2-4894874a6153",
+  "name": "Quote_Romantic",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "A beautiful woman delights the eye; a wise woman, the understanding; a pure one, the soul. Minna Antrim",
+            "If you are not too long, I will wait here for you all my life. \nOscar Wilde",
+            "Morning without you is a dwindled dawn. \nEmily Dickinson"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513809674,
+  "fallbackIntent": false,
+  "events": []
+}

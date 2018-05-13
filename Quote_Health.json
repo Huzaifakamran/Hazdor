@@ -1,0 +1,28 @@
+{
+  "id": "ad4ac342-ca42-473a-8cfc-85716af0131b",
+  "name": "Quote_Health",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship. \nBuddha"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513814752,
+  "fallbackIntent": false,
+  "events": []
+}

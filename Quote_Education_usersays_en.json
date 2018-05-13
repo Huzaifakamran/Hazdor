@@ -1,0 +1,43 @@
+[
+  {
+    "id": "285dbf38-e4b1-4617-bc2d-111ed8ea7b77",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for education",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513813107
+  },
+  {
+    "id": "133f4b19-a436-4b36-a61f-d328d1a30153",
+    "data": [
+      {
+        "text": "Quote for education",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513813107
+  },
+  {
+    "id": "a6079a9f-0e23-4cac-9123-d3656e02d6ff",
+    "data": [
+      {
+        "text": "Quotation about education",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513813107
+  }
+]

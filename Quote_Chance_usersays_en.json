@@ -1,0 +1,58 @@
+[
+  {
+    "id": "87ff7fde-e60c-42b7-b957-1a6714a812c9",
+    "data": [
+      {
+        "text": "Quotation about ",
+        "userDefined": false
+      },
+      {
+        "text": "chance",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513811659
+  },
+  {
+    "id": "9aff2806-1841-49f4-95cc-2cf0af930502",
+    "data": [
+      {
+        "text": "Quote for ",
+        "userDefined": false
+      },
+      {
+        "text": "chance",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513811659
+  },
+  {
+    "id": "b97b6af7-2112-461a-935a-04582daa624b",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for ",
+        "userDefined": false
+      },
+      {
+        "text": "chance",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513811659
+  }
+]

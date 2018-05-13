@@ -1,0 +1,28 @@
+{
+  "id": "9e7942d8-fab4-4c3e-b246-ab64c0497710",
+  "name": "Quote_Family",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You don\u0027t choose your family. They are God\u0027s gift to you, as you are to them.\n Desmond Tutu"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513813758,
+  "fallbackIntent": false,
+  "events": []
+}

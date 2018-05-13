@@ -1,0 +1,43 @@
+[
+  {
+    "id": "1c27a35e-6a69-447c-bd31-e4772539ed24",
+    "data": [
+      {
+        "text": "Quotation about science",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513817454
+  },
+  {
+    "id": "b9b37e89-fcbb-4fe1-a756-12bd6e41f3cd",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for science",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513817454
+  },
+  {
+    "id": "950e3ab8-e06d-46ac-b8c7-c8fe41109432",
+    "data": [
+      {
+        "text": "Quote for science",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513817454
+  }
+]

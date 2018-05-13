@@ -1,0 +1,43 @@
+[
+  {
+    "id": "b6812508-2d64-44b1-8e3f-d54e2f7081d7",
+    "data": [
+      {
+        "text": "Quote for mom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513816215
+  },
+  {
+    "id": "538d7b21-9a51-4243-a880-01e21b8e2790",
+    "data": [
+      {
+        "text": "Quotation about mom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513816215
+  },
+  {
+    "id": "ca998170-4b0a-4376-a652-79b0030799fa",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for mom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513816215
+  }
+]

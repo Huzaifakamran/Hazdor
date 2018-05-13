@@ -1,0 +1,28 @@
+{
+  "id": "4103b9c4-be8b-49be-81c2-d00be746752f",
+  "name": "Quote_Strength",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "With the new day comes new strength and new thoughts. \nEleanor Roosevelt"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513817653,
+  "fallbackIntent": false,
+  "events": []
+}

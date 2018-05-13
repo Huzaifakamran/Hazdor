@@ -1,0 +1,31 @@
+{
+  "id": "e5f64b79-4281-445d-8e8a-0ca083a5852d",
+  "name": "Quote_Imagination",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "A good teacher can inspire hope, ignite the imagination, and instill a love of learning.\n Brad Henry",
+            "The true sign of intelligence is not knowledge but imagination. \nAlbert Einstein"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513815116,
+  "fallbackIntent": false,
+  "events": []
+}

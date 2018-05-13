@@ -1,0 +1,28 @@
+{
+  "id": "a0289067-1c57-4687-81c6-a33daa7ffc87",
+  "name": "Quote_Diet",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Your diet is a bank account. Good food choices are good investments.\n Bethenny Frankel"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513812611,
+  "fallbackIntent": false,
+  "events": []
+}

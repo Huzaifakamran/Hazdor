@@ -1,0 +1,43 @@
+[
+  {
+    "id": "38d5e9dd-434a-4fbd-adc2-9de20d2448bb",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for positive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513816953
+  },
+  {
+    "id": "b000a37c-5ea7-4bda-96ae-7a3de66bcc6f",
+    "data": [
+      {
+        "text": "Quotation about positive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513816953
+  },
+  {
+    "id": "8eee2c42-a161-47ea-b463-3bdbdeedb468",
+    "data": [
+      {
+        "text": "Quote for positive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513816953
+  }
+]
