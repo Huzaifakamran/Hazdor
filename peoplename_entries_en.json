@@ -1,0 +1,1616 @@
+[
+  {
+    "value": "Huzaifa",
+    "synonyms": [
+      "Huzaifa"
+    ]
+  },
+  {
+    "value": "Era",
+    "synonyms": [
+      "Era"
+    ]
+  },
+  {
+    "value": "Hassan",
+    "synonyms": [
+      "Hassan"
+    ]
+  },
+  {
+    "value": "Bushra",
+    "synonyms": [
+      "Bushra"
+    ]
+  },
+  {
+    "value": "Aftab",
+    "synonyms": [
+      "Aftab"
+    ]
+  },
+  {
+    "value": "Saifurrehman",
+    "synonyms": [
+      "Saifurrehman"
+    ]
+  },
+  {
+    "value": "Qadeer",
+    "synonyms": [
+      "Qadeer"
+    ]
+  },
+  {
+    "value": "Sheikh",
+    "synonyms": [
+      "Sheikh"
+    ]
+  },
+  {
+    "value": "Jahangir",
+    "synonyms": [
+      "Jahangir"
+    ]
+  },
+  {
+    "value": "Shahbaz Sharif",
+    "synonyms": [
+      "Shahbaz Sharif"
+    ]
+  },
+  {
+    "value": "Altaf Hussain",
+    "synonyms": [
+      "Altaf Hussain"
+    ]
+  },
+  {
+    "value": "Farhan",
+    "synonyms": [
+      "Farhan"
+    ]
+  },
+  {
+    "value": "Hasan",
+    "synonyms": [
+      "Hasan"
+    ]
+  },
+  {
+    "value": "Maryam",
+    "synonyms": [
+      "Maryam"
+    ]
+  },
+  {
+    "value": "Azfar",
+    "synonyms": [
+      "Azfar"
+    ]
+  },
+  {
+    "value": "Rumsha",
+    "synonyms": [
+      "Rumsha"
+    ]
+  },
+  {
+    "value": "Abeer",
+    "synonyms": [
+      "Abeer"
+    ]
+  },
+  {
+    "value": "Jabeer",
+    "synonyms": [
+      "Jabeer"
+    ]
+  },
+  {
+    "value": "iqbal",
+    "synonyms": [
+      "iqbal"
+    ]
+  },
+  {
+    "value": "Zain",
+    "synonyms": [
+      "Zain"
+    ]
+  },
+  {
+    "value": "@sys.given-name:given-name",
+    "synonyms": [
+      "@sys.given-name:given-name"
+    ]
+  },
+  {
+    "value": "Imran Khan",
+    "synonyms": [
+      "Imran Khan"
+    ]
+  },
+  {
+    "value": "Zaiba Imtiaz",
+    "synonyms": [
+      "Zaiba Imtiaz"
+    ]
+  },
+  {
+    "value": "Quddoos",
+    "synonyms": [
+      "Quddoos"
+    ]
+  },
+  {
+    "value": "Shahrukh",
+    "synonyms": [
+      "Shahrukh"
+    ]
+  },
+  {
+    "value": "Rehman",
+    "synonyms": [
+      "Rehman"
+    ]
+  },
+  {
+    "value": "Iqbal",
+    "synonyms": [
+      "Iqbal"
+    ]
+  },
+  {
+    "value": "Sameen",
+    "synonyms": [
+      "Sameen"
+    ]
+  },
+  {
+    "value": "Laiba",
+    "synonyms": [
+      "Laiba"
+    ]
+  },
+  {
+    "value": "Akmal",
+    "synonyms": [
+      "Akmal"
+    ]
+  },
+  {
+    "value": "Osama",
+    "synonyms": [
+      "Osama"
+    ]
+  },
+  {
+    "value": "Wamiq",
+    "synonyms": [
+      "Wamiq"
+    ]
+  },
+  {
+    "value": "Adnan",
+    "synonyms": [
+      "Adnan"
+    ]
+  },
+  {
+    "value": "Sameed",
+    "synonyms": [
+      "Sameed"
+    ]
+  },
+  {
+    "value": "Maaz",
+    "synonyms": [
+      "Maaz"
+    ]
+  },
+  {
+    "value": "Phoppi",
+    "synonyms": [
+      "Phoppi"
+    ]
+  },
+  {
+    "value": "Umair",
+    "synonyms": [
+      "Umair"
+    ]
+  },
+  {
+    "value": "Fariah",
+    "synonyms": [
+      "Fariah"
+    ]
+  },
+  {
+    "value": "Nusrat Fateh Ali Khan",
+    "synonyms": [
+      "Nusrat Fateh Ali Khan"
+    ]
+  },
+  {
+    "value": "Hafiz",
+    "synonyms": [
+      "Hafiz"
+    ]
+  },
+  {
+    "value": "Momo",
+    "synonyms": [
+      "Momo"
+    ]
+  },
+  {
+    "value": "Kammo",
+    "synonyms": [
+      "Kammo"
+    ]
+  },
+  {
+    "value": "Shoib",
+    "synonyms": [
+      "Shoib"
+    ]
+  },
+  {
+    "value": "Hafsa",
+    "synonyms": [
+      "Hafsa"
+    ]
+  },
+  {
+    "value": "Muneeb",
+    "synonyms": [
+      "Muneeb"
+    ]
+  },
+  {
+    "value": "Zawar",
+    "synonyms": [
+      "Zawar"
+    ]
+  },
+  {
+    "value": "Shahzaib",
+    "synonyms": [
+      "Shahzaib"
+    ]
+  },
+  {
+    "value": "Quaid-e-Azam",
+    "synonyms": [
+      "Quaid-e-Azam"
+    ]
+  },
+  {
+    "value": "Kamran",
+    "synonyms": [
+      "Kamran"
+    ]
+  },
+  {
+    "value": "Raees",
+    "synonyms": [
+      "Raees"
+    ]
+  },
+  {
+    "value": "Aisha",
+    "synonyms": [
+      "Aisha"
+    ]
+  },
+  {
+    "value": "Sara",
+    "synonyms": [
+      "Sara"
+    ]
+  },
+  {
+    "value": "Shafia",
+    "synonyms": [
+      "Shafia"
+    ]
+  },
+  {
+    "value": "Afreen",
+    "synonyms": [
+      "Afreen"
+    ]
+  },
+  {
+    "value": "Waqas",
+    "synonyms": [
+      "Waqas"
+    ]
+  },
+  {
+    "value": "Faiza",
+    "synonyms": [
+      "Faiza"
+    ]
+  },
+  {
+    "value": "Aman",
+    "synonyms": [
+      "Aman"
+    ]
+  },
+  {
+    "value": "Nazo",
+    "synonyms": [
+      "Nazo"
+    ]
+  },
+  {
+    "value": "Arshad",
+    "synonyms": [
+      "Arshad"
+    ]
+  },
+  {
+    "value": "Simran",
+    "synonyms": [
+      "Simran"
+    ]
+  },
+  {
+    "value": "Hafsa",
+    "synonyms": [
+      "Hafsa"
+    ]
+  },
+  {
+    "value": "Insaan",
+    "synonyms": [
+      "Insaan"
+    ]
+  },
+  {
+    "value": "Shaikh",
+    "synonyms": [
+      "Shaikh"
+    ]
+  },
+  {
+    "value": "Raes",
+    "synonyms": [
+      "Raes"
+    ]
+  },
+  {
+    "value": "Sadia",
+    "synonyms": [
+      "Sadia"
+    ]
+  },
+  {
+    "value": "Shahjahan",
+    "synonyms": [
+      "Shahjahan"
+    ]
+  },
+  {
+    "value": "Arsalan",
+    "synonyms": [
+      "Arsalan"
+    ]
+  },
+  {
+    "value": "Areesha",
+    "synonyms": [
+      "Areesha"
+    ]
+  },
+  {
+    "value": "Aijaz",
+    "synonyms": [
+      "Aijaz"
+    ]
+  },
+  {
+    "value": "Nashit",
+    "synonyms": [
+      "Nashit"
+    ]
+  },
+  {
+    "value": "Hunain",
+    "synonyms": [
+      "Hunain"
+    ]
+  },
+  {
+    "value": "Kinza",
+    "synonyms": [
+      "Kinza"
+    ]
+  },
+  {
+    "value": "Zaman",
+    "synonyms": [
+      "Zaman"
+    ]
+  },
+  {
+    "value": "Ghulam",
+    "synonyms": [
+      "Ghulam"
+    ]
+  },
+  {
+    "value": "Insan",
+    "synonyms": [
+      "Insan"
+    ]
+  },
+  {
+    "value": "Liaqat Ali Khan",
+    "synonyms": [
+      "Liaqat Ali Khan"
+    ]
+  },
+  {
+    "value": "Immad",
+    "synonyms": [
+      "Immad"
+    ]
+  },
+  {
+    "value": "Saad",
+    "synonyms": [
+      "Saad"
+    ]
+  },
+  {
+    "value": "Waleed",
+    "synonyms": [
+      "Waleed"
+    ]
+  },
+  {
+    "value": "Hamza",
+    "synonyms": [
+      "Hamza"
+    ]
+  },
+  {
+    "value": "Adeela",
+    "synonyms": [
+      "Adeela"
+    ]
+  },
+  {
+    "value": "Shahnaz",
+    "synonyms": [
+      "Shahnaz"
+    ]
+  },
+  {
+    "value": "Mohammad Ali Jinnah",
+    "synonyms": [
+      "Mohammad Ali Jinnah"
+    ]
+  },
+  {
+    "value": "Michael",
+    "synonyms": [
+      "Michael"
+    ]
+  },
+  {
+    "value": "Anwar",
+    "synonyms": [
+      "Anwar"
+    ]
+  },
+  {
+    "value": "Fuzail",
+    "synonyms": [
+      "Fuzail"
+    ]
+  },
+  {
+    "value": "Shehri",
+    "synonyms": [
+      "Shehri"
+    ]
+  },
+  {
+    "value": "Urooba",
+    "synonyms": [
+      "Urooba"
+    ]
+  },
+  {
+    "value": "Qadir",
+    "synonyms": [
+      "Qadir"
+    ]
+  },
+  {
+    "value": "Mehboob",
+    "synonyms": [
+      "Mehboob"
+    ]
+  },
+  {
+    "value": "Ajmal",
+    "synonyms": [
+      "Ajmal"
+    ]
+  },
+  {
+    "value": "Allama Iqbal",
+    "synonyms": [
+      "Allama Iqbal"
+    ]
+  },
+  {
+    "value": "Nawaz Sharif",
+    "synonyms": [
+      "Nawaz Sharif"
+    ]
+  },
+  {
+    "value": "Farooq Sattar",
+    "synonyms": [
+      "Farooq Sattar"
+    ]
+  },
+  {
+    "value": "Babar Azam",
+    "synonyms": [
+      "Babar Azam"
+    ]
+  },
+  {
+    "value": "Mustafa",
+    "synonyms": [
+      "Mustafa"
+    ]
+  },
+  {
+    "value": "Komal",
+    "synonyms": [
+      "Komal"
+    ]
+  },
+  {
+    "value": "Muneeba",
+    "synonyms": [
+      "Muneeba"
+    ]
+  },
+  {
+    "value": "Salman",
+    "synonyms": [
+      "Salman"
+    ]
+  },
+  {
+    "value": "Wahaj",
+    "synonyms": [
+      "Wahaj"
+    ]
+  },
+  {
+    "value": "Zainad",
+    "synonyms": [
+      "Zainad"
+    ]
+  },
+  {
+    "value": "Mustamir",
+    "synonyms": [
+      "Mustamir"
+    ]
+  },
+  {
+    "value": "Tanzeel",
+    "synonyms": [
+      "Tanzeel"
+    ]
+  },
+  {
+    "value": "Meena",
+    "synonyms": [
+      "Meena"
+    ]
+  },
+  {
+    "value": "Feroz",
+    "synonyms": [
+      "Feroz"
+    ]
+  },
+  {
+    "value": "Farzan",
+    "synonyms": [
+      "Farzan"
+    ]
+  },
+  {
+    "value": "Jameela",
+    "synonyms": [
+      "Jameela"
+    ]
+  },
+  {
+    "value": "Phupi",
+    "synonyms": [
+      "Phupi"
+    ]
+  },
+  {
+    "value": "Rumman",
+    "synonyms": [
+      "Rumman"
+    ]
+  },
+  {
+    "value": "Ali",
+    "synonyms": [
+      "Ali"
+    ]
+  },
+  {
+    "value": "Urooj",
+    "synonyms": [
+      "Urooj"
+    ]
+  },
+  {
+    "value": "Muskaan",
+    "synonyms": [
+      "Muskaan"
+    ]
+  },
+  {
+    "value": "Jamal",
+    "synonyms": [
+      "Jamal"
+    ]
+  },
+  {
+    "value": "Mohsin",
+    "synonyms": [
+      "Mohsin"
+    ]
+  },
+  {
+    "value": "Annus",
+    "synonyms": [
+      "Annus"
+    ]
+  },
+  {
+    "value": "Rimsha",
+    "synonyms": [
+      "Rimsha"
+    ]
+  },
+  {
+    "value": "Jordon",
+    "synonyms": [
+      "Jordon"
+    ]
+  },
+  {
+    "value": "Guriya",
+    "synonyms": [
+      "Guriya"
+    ]
+  },
+  {
+    "value": "Baji",
+    "synonyms": [
+      "Baji"
+    ]
+  },
+  {
+    "value": "Phuppi",
+    "synonyms": [
+      "Phuppi"
+    ]
+  },
+  {
+    "value": "Asim",
+    "synonyms": [
+      "Asim"
+    ]
+  },
+  {
+    "value": "Khan",
+    "synonyms": [
+      "Khan"
+    ]
+  },
+  {
+    "value": "Dania",
+    "synonyms": [
+      "Dania"
+    ]
+  },
+  {
+    "value": "Ahmed",
+    "synonyms": [
+      "Ahmed"
+    ]
+  },
+  {
+    "value": "Sir Syed Ahmed Khan",
+    "synonyms": [
+      "Sir Syed Ahmed Khan"
+    ]
+  },
+  {
+    "value": "Shahla",
+    "synonyms": [
+      "Shahla"
+    ]
+  },
+  {
+    "value": "Inzamam-ul-haq",
+    "synonyms": [
+      "Inzamam-ul-haq"
+    ]
+  },
+  {
+    "value": "Amir",
+    "synonyms": [
+      "Amir"
+    ]
+  },
+  {
+    "value": "Phuppo",
+    "synonyms": [
+      "Phuppo"
+    ]
+  },
+  {
+    "value": "Aasim",
+    "synonyms": [
+      "Aasim"
+    ]
+  },
+  {
+    "value": "Shareef",
+    "synonyms": [
+      "Shareef"
+    ]
+  },
+  {
+    "value": "Asad",
+    "synonyms": [
+      "Asad"
+    ]
+  },
+  {
+    "value": "Areeba",
+    "synonyms": [
+      "Areeba"
+    ]
+  },
+  {
+    "value": "Anas",
+    "synonyms": [
+      "Anas"
+    ]
+  },
+  {
+    "value": "Komal",
+    "synonyms": [
+      "Komal"
+    ]
+  },
+  {
+    "value": "Saira",
+    "synonyms": [
+      "Saira"
+    ]
+  },
+  {
+    "value": "Ramsha",
+    "synonyms": [
+      "Ramsha"
+    ]
+  },
+  {
+    "value": "Noman",
+    "synonyms": [
+      "Noman"
+    ]
+  },
+  {
+    "value": "Shahzad",
+    "synonyms": [
+      "Shahzad"
+    ]
+  },
+  {
+    "value": "Talha",
+    "synonyms": [
+      "Talha"
+    ]
+  },
+  {
+    "value": "Tahir",
+    "synonyms": [
+      "Tahir"
+    ]
+  },
+  {
+    "value": "Jameel",
+    "synonyms": [
+      "Jameel"
+    ]
+  },
+  {
+    "value": "Ferzana",
+    "synonyms": [
+      "Ferzana"
+    ]
+  },
+  {
+    "value": "Kiran",
+    "synonyms": [
+      "Kiran"
+    ]
+  },
+  {
+    "value": "Arsalan",
+    "synonyms": [
+      "Arsalan"
+    ]
+  },
+  {
+    "value": "Fasih",
+    "synonyms": [
+      "Fasih"
+    ]
+  },
+  {
+    "value": "Hussain",
+    "synonyms": [
+      "Hussain"
+    ]
+  },
+  {
+    "value": "Raheem",
+    "synonyms": [
+      "Raheem"
+    ]
+  },
+  {
+    "value": "Injila",
+    "synonyms": [
+      "Injila"
+    ]
+  },
+  {
+    "value": "Fari",
+    "synonyms": [
+      "Fari"
+    ]
+  },
+  {
+    "value": "Pari",
+    "synonyms": [
+      "Pari"
+    ]
+  },
+  {
+    "value": "Amjad",
+    "synonyms": [
+      "Amjad"
+    ]
+  },
+  {
+    "value": "Mustafa Kamal",
+    "synonyms": [
+      "Mustafa Kamal"
+    ]
+  },
+  {
+    "value": "Imran",
+    "synonyms": [
+      "Imran"
+    ]
+  },
+  {
+    "value": "Javaria",
+    "synonyms": [
+      "Javaria"
+    ]
+  },
+  {
+    "value": "Fia",
+    "synonyms": [
+      "Fia"
+    ]
+  },
+  {
+    "value": "Afridi",
+    "synonyms": [
+      "Afridi"
+    ]
+  },
+  {
+    "value": "Mirza",
+    "synonyms": [
+      "Mirza"
+    ]
+  },
+  {
+    "value": "Shumaila",
+    "synonyms": [
+      "Shumaila"
+    ]
+  },
+  {
+    "value": "Aiman",
+    "synonyms": [
+      "Aiman"
+    ]
+  },
+  {
+    "value": "Shazia",
+    "synonyms": [
+      "Shazia"
+    ]
+  },
+  {
+    "value": "Zaidi",
+    "synonyms": [
+      "Zaidi"
+    ]
+  },
+  {
+    "value": "Lovely",
+    "synonyms": [
+      "Lovely"
+    ]
+  },
+  {
+    "value": "Injilla",
+    "synonyms": [
+      "Injilla"
+    ]
+  },
+  {
+    "value": "Jamal",
+    "synonyms": [
+      "Jamal"
+    ]
+  },
+  {
+    "value": "Shahriyar",
+    "synonyms": [
+      "Shahriyar"
+    ]
+  },
+  {
+    "value": "Rida",
+    "synonyms": [
+      "Rida"
+    ]
+  },
+  {
+    "value": "Muneeb",
+    "synonyms": [
+      "Muneeb"
+    ]
+  },
+  {
+    "value": "Yousuf",
+    "synonyms": [
+      "Yousuf"
+    ]
+  },
+  {
+    "value": "Imran Khanh",
+    "synonyms": [
+      "Imran Khanh"
+    ]
+  },
+  {
+    "value": "Sultana",
+    "synonyms": [
+      "Sultana"
+    ]
+  },
+  {
+    "value": "Bismilla Khan",
+    "synonyms": [
+      "Bismilla Khan"
+    ]
+  },
+  {
+    "value": "Hamna",
+    "synonyms": [
+      "Hamna"
+    ]
+  },
+  {
+    "value": "Javeria",
+    "synonyms": [
+      "Javeria"
+    ]
+  },
+  {
+    "value": "Nomi",
+    "synonyms": [
+      "Nomi"
+    ]
+  },
+  {
+    "value": "Sajid",
+    "synonyms": [
+      "Sajid"
+    ]
+  },
+  {
+    "value": "Saeed",
+    "synonyms": [
+      "Saeed"
+    ]
+  },
+  {
+    "value": "Umer",
+    "synonyms": [
+      "Umer"
+    ]
+  },
+  {
+    "value": "Waseem Akhter",
+    "synonyms": [
+      "Waseem Akhter"
+    ]
+  },
+  {
+    "value": "Anwar Ali",
+    "synonyms": [
+      "Anwar Ali"
+    ]
+  },
+  {
+    "value": "Saleem",
+    "synonyms": [
+      "Saleem"
+    ]
+  },
+  {
+    "value": "Allama Iqbal",
+    "synonyms": [
+      "Allama Iqbal"
+    ]
+  },
+  {
+    "value": "@sys.last-name:last-name",
+    "synonyms": [
+      "@sys.last-name:last-name"
+    ]
+  },
+  {
+    "value": "Wasiq",
+    "synonyms": [
+      "Wasiq"
+    ]
+  },
+  {
+    "value": "Bajjo",
+    "synonyms": [
+      "Bajjo"
+    ]
+  },
+  {
+    "value": "Imran khan",
+    "synonyms": [
+      "Imran khan"
+    ]
+  },
+  {
+    "value": "Aqsa",
+    "synonyms": [
+      "Aqsa"
+    ]
+  },
+  {
+    "value": "Saifu",
+    "synonyms": [
+      "Saifu"
+    ]
+  },
+  {
+    "value": "Aafia",
+    "synonyms": [
+      "Aafia"
+    ]
+  },
+  {
+    "value": "Usman",
+    "synonyms": [
+      "Usman"
+    ]
+  },
+  {
+    "value": "Azra",
+    "synonyms": [
+      "Azra"
+    ]
+  },
+  {
+    "value": "Shoaib Akhter",
+    "synonyms": [
+      "Shoaib Akhter"
+    ]
+  },
+  {
+    "value": "Farooqi",
+    "synonyms": [
+      "Farooqi"
+    ]
+  },
+  {
+    "value": "Qazi",
+    "synonyms": [
+      "Qazi"
+    ]
+  },
+  {
+    "value": "Hashmi",
+    "synonyms": [
+      "Hashmi"
+    ]
+  },
+  {
+    "value": "Isha",
+    "synonyms": [
+      "Isha"
+    ]
+  },
+  {
+    "value": "Burhan",
+    "synonyms": [
+      "Burhan"
+    ]
+  },
+  {
+    "value": "Syed Zahid Hussain",
+    "synonyms": [
+      "Syed Zahid Hussain"
+    ]
+  },
+  {
+    "value": "Arbi",
+    "synonyms": [
+      "Arbi"
+    ]
+  },
+  {
+    "value": "Muneeba Shah",
+    "synonyms": [
+      "Muneeba Shah"
+    ]
+  },
+  {
+    "value": "Muhammad",
+    "synonyms": [
+      "Muhammad"
+    ]
+  },
+  {
+    "value": "Irfan",
+    "synonyms": [
+      "Irfan"
+    ]
+  },
+  {
+    "value": "Pashto",
+    "synonyms": [
+      "Pashto"
+    ]
+  },
+  {
+    "value": "Panjabi",
+    "synonyms": [
+      "Panjabi"
+    ]
+  },
+  {
+    "value": "Abdullah",
+    "synonyms": [
+      "Abdullah"
+    ]
+  },
+  {
+    "value": "Mojiz Hasan",
+    "synonyms": [
+      "Mojiz Hasan"
+    ]
+  },
+  {
+    "value": "Amaan",
+    "synonyms": [
+      "Amaan"
+    ]
+  },
+  {
+    "value": "Sindhi",
+    "synonyms": [
+      "Sindhi"
+    ]
+  },
+  {
+    "value": "Sharma",
+    "synonyms": [
+      "Sharma"
+    ]
+  },
+  {
+    "value": "Ezaan",
+    "synonyms": [
+      "Ezaan"
+    ]
+  },
+  {
+    "value": "Urdu",
+    "synonyms": [
+      "Urdu"
+    ]
+  },
+  {
+    "value": "hindi",
+    "synonyms": [
+      "hindi"
+    ]
+  },
+  {
+    "value": "America",
+    "synonyms": [
+      "America"
+    ]
+  },
+  {
+    "value": "Baloch",
+    "synonyms": [
+      "Baloch"
+    ]
+  },
+  {
+    "value": "Muniba",
+    "synonyms": [
+      "Muniba"
+    ]
+  },
+  {
+    "value": "Hareem",
+    "synonyms": [
+      "Hareem"
+    ]
+  },
+  {
+    "value": "Siddique",
+    "synonyms": [
+      "Siddique"
+    ]
+  },
+  {
+    "value": "Saud",
+    "synonyms": [
+      "Saud"
+    ]
+  },
+  {
+    "value": "Soha Khalid",
+    "synonyms": [
+      "Soha Khalid"
+    ]
+  },
+  {
+    "value": "@sys.last-name:last-name",
+    "synonyms": [
+      "@sys.last-name:last-name"
+    ]
+  },
+  {
+    "value": "Prime minster",
+    "synonyms": [
+      "Prime minster"
+    ]
+  },
+  {
+    "value": "Maryam nawaz",
+    "synonyms": [
+      "Maryam nawaz"
+    ]
+  },
+  {
+    "value": "Salman Masood",
+    "synonyms": [
+      "Salman Masood"
+    ]
+  },
+  {
+    "value": "Khurram",
+    "synonyms": [
+      "Khurram"
+    ]
+  },
+  {
+    "value": "Iraqi",
+    "synonyms": [
+      "Iraqi"
+    ]
+  },
+  {
+    "value": "Kazmi",
+    "synonyms": [
+      "Kazmi"
+    ]
+  },
+  {
+    "value": "Muneeb Butt",
+    "synonyms": [
+      "Muneeb Butt"
+    ]
+  },
+  {
+    "value": "Farsi",
+    "synonyms": [
+      "Farsi"
+    ]
+  },
+  {
+    "value": "China",
+    "synonyms": [
+      "China"
+    ]
+  },
+  {
+    "value": "Erxlan",
+    "synonyms": [
+      "Erxlan"
+    ]
+  },
+  {
+    "value": "Hanzallah",
+    "synonyms": [
+      "Hanzallah"
+    ]
+  },
+  {
+    "value": "Mohammad",
+    "synonyms": [
+      "Mohammad"
+    ]
+  },
+  {
+    "value": "@sys.given-name:given-name",
+    "synonyms": [
+      "@sys.given-name:given-name"
+    ]
+  },
+  {
+    "value": "@name:nam",
+    "synonyms": [
+      "@name:nam"
+    ]
+  },
+  {
+    "value": "Zia Khan",
+    "synonyms": [
+      "Zia Khan"
+    ]
+  },
+  {
+    "value": "Sanon",
+    "synonyms": [
+      "Sanon"
+    ]
+  },
+  {
+    "value": "Tehzeeb",
+    "synonyms": [
+      "Tehzeeb"
+    ]
+  },
+  {
+    "value": "Zaka ahmed Shariif",
+    "synonyms": [
+      "Zaka ahmed Shariif"
+    ]
+  },
+  {
+    "value": "Mehwish Hayat",
+    "synonyms": [
+      "Mehwish Hayat"
+    ]
+  },
+  {
+    "value": "Alam",
+    "synonyms": [
+      "Alam"
+    ]
+  },
+  {
+    "value": "Kriti",
+    "synonyms": [
+      "Kriti"
+    ]
+  },
+  {
+    "value": "Ambani",
+    "synonyms": [
+      "Ambani"
+    ]
+  },
+  {
+    "value": "Syed Amaan Ahmed",
+    "synonyms": [
+      "Syed Amaan Ahmed"
+    ]
+  },
+  {
+    "value": "Japan",
+    "synonyms": [
+      "Japan"
+    ]
+  },
+  {
+    "value": "Raza",
+    "synonyms": [
+      "Raza"
+    ]
+  },
+  {
+    "value": "Zooba",
+    "synonyms": [
+      "Zooba"
+    ]
+  },
+  {
+    "value": "Dipika",
+    "synonyms": [
+      "Dipika"
+    ]
+  },
+  {
+    "value": "Manahil",
+    "synonyms": [
+      "Manahil"
+    ]
+  },
+  {
+    "value": "Ahad",
+    "synonyms": [
+      "Ahad"
+    ]
+  },
+  {
+    "value": "Punjabi",
+    "synonyms": [
+      "Punjabi"
+    ]
+  },
+  {
+    "value": "Pakistan",
+    "synonyms": [
+      "Pakistan"
+    ]
+  },
+  {
+    "value": "Ibad",
+    "synonyms": [
+      "Ibad"
+    ]
+  },
+  {
+    "value": "Azaan",
+    "synonyms": [
+      "Azaan"
+    ]
+  },
+  {
+    "value": "Farrukh",
+    "synonyms": [
+      "Farrukh"
+    ]
+  },
+  {
+    "value": "Komal Ata",
+    "synonyms": [
+      "Komal Ata"
+    ]
+  },
+  {
+    "value": "Maryam Khan",
+    "synonyms": [
+      "Maryam Khan"
+    ]
+  },
+  {
+    "value": "Hamna Shah",
+    "synonyms": [
+      "Hamna Shah"
+    ]
+  },
+  {
+    "value": "Monis",
+    "synonyms": [
+      "Monis"
+    ]
+  },
+  {
+    "value": "Ibaad",
+    "synonyms": [
+      "Ibaad"
+    ]
+  },
+  {
+    "value": "India",
+    "synonyms": [
+      "India"
+    ]
+  },
+  {
+    "value": "Furqan",
+    "synonyms": [
+      "Furqan"
+    ]
+  },
+  {
+    "value": "Afghanistan",
+    "synonyms": [
+      "Afghanistan"
+    ]
+  },
+  {
+    "value": "Malik",
+    "synonyms": [
+      "Malik"
+    ]
+  },
+  {
+    "value": "English",
+    "synonyms": [
+      "English"
+    ]
+  },
+  {
+    "value": "Mukesh",
+    "synonyms": [
+      "Mukesh"
+    ]
+  },
+  {
+    "value": "Zoobay",
+    "synonyms": [
+      "Zoobay"
+    ]
+  },
+  {
+    "value": "Qureshi",
+    "synonyms": [
+      "Qureshi"
+    ]
+  },
+  {
+    "value": "Riaz ur rehman",
+    "synonyms": [
+      "Riaz ur rehman"
+    ]
+  },
+  {
+    "value": "Sahar",
+    "synonyms": [
+      "Sahar"
+    ]
+  }
+]

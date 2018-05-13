@@ -1,0 +1,62 @@
+[
+  {
+    "value": "@sys.geo-county-gb:geo-county-gb  president",
+    "synonyms": [
+      "@sys.geo-county-gb:geo-county-gb  president"
+    ]
+  },
+  {
+    "value": "President of @sys.geo-county-gb:geo-county-gb ",
+    "synonyms": [
+      "President of @sys.geo-county-gb:geo-county-gb "
+    ]
+  },
+  {
+    "value": "Japan",
+    "synonyms": [
+      "Japan"
+    ]
+  },
+  {
+    "value": "Pakistan",
+    "synonyms": [
+      "Pakistan"
+    ]
+  },
+  {
+    "value": "Prime_minister_of_pakistan",
+    "synonyms": [
+      "Prime_minister_of_pakistan"
+    ]
+  },
+  {
+    "value": "Afghanistan",
+    "synonyms": [
+      "Afghanistan"
+    ]
+  },
+  {
+    "value": "India",
+    "synonyms": [
+      "India"
+    ]
+  },
+  {
+    "value": "America",
+    "synonyms": [
+      "America"
+    ]
+  },
+  {
+    "value": "Iraq",
+    "synonyms": [
+      "Iraq"
+    ]
+  },
+  {
+    "value": "Prime minister",
+    "synonyms": [
+      "Prime minister"
+    ]
+  }
+]
