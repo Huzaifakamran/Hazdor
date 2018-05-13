@@ -1,0 +1,39 @@
+{
+  "id": "0f095d79-8cb0-43c9-9a90-878eb6d22a4b",
+  "name": "Quote_Anniversary",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "096b9437-f860-49e4-ae61-ae94bdb2dbcf",
+          "dataType": "@peoplename",
+          "name": "peoplename",
+          "value": "$peoplename",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "A wedding anniversary is the celebration of love, trust, partnership, tolerance and tenacity. The order varies for any given year. \nPaul Sweeney",
+            "May you live as long as you wish and love as long as you live.\n Robert A. Heinlein"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513810724,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "bc783cc3-098a-48b7-a965-e227f92cb66a",
+    "data": [
+      {
+        "text": "You\u0027re so cute",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520274387
+  },
+  {
+    "id": "52a4c156-abbc-4bfd-8991-9d164d0e5017",
+    "data": [
+      {
+        "text": "You are nice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520274387
+  },
+  {
+    "id": "0cce64df-81ee-44f0-a09d-923aa02144e7",
+    "data": [
+      {
+        "text": "You are so cute",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520274387
+  }
+]

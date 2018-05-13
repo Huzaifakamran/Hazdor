@@ -1,0 +1,28 @@
+{
+  "id": "8368c43c-787f-4b87-8226-c43123fe330c",
+  "name": "language",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I can speak English only...!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514333082,
+  "fallbackIntent": false,
+  "events": []
+}

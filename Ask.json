@@ -1,0 +1,28 @@
+{
+  "id": "4add924e-9ab1-4625-a388-2844e58dfb55",
+  "name": "Ask",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I am here to answer your queries..!!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515331198,
+  "fallbackIntent": false,
+  "events": []
+}

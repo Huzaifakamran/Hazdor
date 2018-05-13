@@ -1,0 +1,28 @@
+{
+  "id": "7bcf85dd-b0f9-474f-82cc-53c57e810b40",
+  "name": "like1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I like You...😂😉"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514806024,
+  "fallbackIntent": false,
+  "events": []
+}

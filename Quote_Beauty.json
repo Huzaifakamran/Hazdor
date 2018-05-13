@@ -1,0 +1,32 @@
+{
+  "id": "9436709c-adcf-4328-ae11-8033523de2c4",
+  "name": "Quote_Beauty",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Love yourself. It is important to stay positive because beauty comes from the inside out. Jenn Proske",
+            "Beauty is when you can appreciate yourself. When you love yourself, that\u0027s when you\u0027re most beautiful. \nZoe Kravitz",
+            "Let the beauty of what you love be what you do.\n Rumi"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513811325,
+  "fallbackIntent": false,
+  "events": []
+}

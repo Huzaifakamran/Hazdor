@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25d4311f-0afe-4434-ad6b-171b58d0dbcd",
+    "data": [
+      {
+        "text": "I like u",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514362732
+  },
+  {
+    "id": "25085f42-422f-40cc-bc1c-9c23fb879fa7",
+    "data": [
+      {
+        "text": "I like You",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514362732
+  }
+]

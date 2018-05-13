@@ -1,0 +1,139 @@
+[
+  {
+    "id": "d5036f48-2bb3-4348-bfc9-a8ab9874fdc3",
+    "data": [
+      {
+        "text": "My nick name is ",
+        "userDefined": false
+      },
+      {
+        "text": "name",
+        "alias": "peoplename",
+        "meta": "@peoplename",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4086563c-b170-4f2a-be08-b81f7c415690",
+    "data": [
+      {
+        "text": "My name is ",
+        "userDefined": false
+      },
+      {
+        "text": "name",
+        "alias": "peoplename",
+        "meta": "@peoplename",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2b07c4e3-5f9b-440c-8258-48365c63a3bf",
+    "data": [
+      {
+        "text": "I would like you to call me ",
+        "userDefined": false
+      },
+      {
+        "text": "name",
+        "alias": "peoplename",
+        "meta": "@peoplename",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5aaafc22-bf1b-4e03-a53c-b438d95aa10d",
+    "data": [
+      {
+        "text": "Hello, I am  ",
+        "userDefined": false
+      },
+      {
+        "text": "name",
+        "alias": "peoplename",
+        "meta": "@peoplename",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513701804
+  },
+  {
+    "id": "f04e7b9f-e806-48a0-a2a7-278facf27e69",
+    "data": [
+      {
+        "text": "My last name is ",
+        "userDefined": false
+      },
+      {
+        "text": "name",
+        "alias": "peoplename",
+        "meta": "@peoplename",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "70b37357-6fa1-4c8f-8343-3d9571551001",
+    "data": [
+      {
+        "text": "People call me ",
+        "userDefined": false
+      },
+      {
+        "text": "name",
+        "alias": "peoplename",
+        "meta": "@peoplename",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "26231fc1-756e-44b9-9b2e-14c7913412de",
+    "data": [
+      {
+        "text": "My nickname is ",
+        "userDefined": false
+      },
+      {
+        "text": "name",
+        "alias": "peoplename",
+        "meta": "@peoplename",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c232b9a8-97f3-4532-a30a-6446b3d1f29c",
+    "data": [
+      {
+        "text": "You can call me ",
+        "userDefined": false
+      },
+      {
+        "text": "name",
+        "alias": "peoplename",
+        "meta": "@peoplename",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

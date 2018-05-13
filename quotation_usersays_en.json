@@ -1,0 +1,141 @@
+[
+  {
+    "id": "3cd85e65-d504-4f74-9a2d-175772414ed8",
+    "data": [
+      {
+        "text": "Tell me some ",
+        "userDefined": false
+      },
+      {
+        "text": "best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a0385f29-26c1-4188-9f11-4b3f769a4c3a",
+    "data": [
+      {
+        "text": "Quotation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4d5036d2-1f6f-4d95-b39c-0e3f64847848",
+    "data": [
+      {
+        "text": "Can u send me some quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513803003
+  },
+  {
+    "id": "b1649ce7-93cc-40a7-9286-7f616cc98ce4",
+    "data": [
+      {
+        "text": "Plz send me some quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513803003
+  },
+  {
+    "id": "1a387b4d-2ec1-43c1-ba61-048dd70c609a",
+    "data": [
+      {
+        "text": "Are you capable to send me some quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513803003
+  },
+  {
+    "id": "226ed9a1-08f4-4e5c-a20e-27213374d88f",
+    "data": [
+      {
+        "text": "Quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513803003
+  },
+  {
+    "id": "30518d47-3f37-49a9-805a-d124103a5735",
+    "data": [
+      {
+        "text": "Tell me about quotation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513803003
+  },
+  {
+    "id": "9e2c8443-3388-41e7-ad7c-8bbdc85a40c8",
+    "data": [
+      {
+        "text": "Plz send me some quotation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513803003
+  },
+  {
+    "id": "1a810415-fdf3-4fca-bba8-68c9131bfc88",
+    "data": [
+      {
+        "text": "Tell me about quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513803003
+  },
+  {
+    "id": "1986c287-0fb6-4415-a26d-2bb8472f0b3a",
+    "data": [
+      {
+        "text": "Please send me some quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513803003
+  },
+  {
+    "id": "ae320ff8-51e7-4bd7-a46b-3c61a863860a",
+    "data": [
+      {
+        "text": "Tell me some quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513803003
+  }
+]

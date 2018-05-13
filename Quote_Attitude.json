@@ -1,0 +1,32 @@
+{
+  "id": "389e3d5d-a2a8-4a6c-ac04-5ee4c36a101d",
+  "name": "Quote_Attitude",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Style is a reflection of your attitude and your personality. \nShawn Ashmore",
+            "If you don\u0027t like something, change it. If you can\u0027t change it, change your attitude. \nMaya Angelou",
+            "Adopting the right attitude can convert a negative stress into a positive one.\n Hans Selye"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513811136,
+  "fallbackIntent": false,
+  "events": []
+}

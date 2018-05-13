@@ -1,0 +1,28 @@
+{
+  "id": "5135b751-7818-4eed-a693-5a7ed4908a58",
+  "name": "helpfull",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Thanks. that means a lot 🙂"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514897540,
+  "fallbackIntent": false,
+  "events": []
+}

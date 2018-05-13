@@ -1,0 +1,33 @@
+{
+  "id": "e6d9620f-3895-42f5-971f-55cf4d34ed14",
+  "parentId": "c34a3677-2988-47f8-85f5-1517e9e1c547",
+  "rootParentId": "c34a3677-2988-47f8-85f5-1517e9e1c547",
+  "name": "marry - custom",
+  "auto": true,
+  "contexts": [
+    "marry-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "marry.marry-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Over an hour away!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

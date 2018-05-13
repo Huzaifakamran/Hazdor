@@ -1,0 +1,28 @@
+{
+  "id": "41930307-96ec-40e5-8eef-884ef815686e",
+  "name": "Like(1)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I like you too"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514362732,
+  "fallbackIntent": false,
+  "events": []
+}

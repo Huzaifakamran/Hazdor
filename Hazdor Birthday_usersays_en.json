@@ -1,0 +1,53 @@
+[
+  {
+    "id": "3fec1f89-5c8f-4bda-80e9-25af6b72caf1",
+    "data": [
+      {
+        "text": "What is your birthday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514144046
+  },
+  {
+    "id": "836a3b5c-ea1c-456d-a8ec-4f234b1e60ac",
+    "data": [
+      {
+        "text": "When is your birthday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a0b93936-b916-4b6f-81a8-8e929757164c",
+    "data": [
+      {
+        "text": "What is your born ",
+        "userDefined": false
+      },
+      {
+        "text": "day",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514144046
+  },
+  {
+    "id": "0e0d45a4-d1d2-4120-9f9f-63ddabbc661c",
+    "data": [
+      {
+        "text": "How many years has this bot been operating for Hazdor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

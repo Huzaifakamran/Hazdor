@@ -1,0 +1,44 @@
+{
+  "id": "616557dd-4c00-4636-a317-592ec34d87af",
+  "name": "Hazdor_Meaning",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Hazdor",
+          "subtitle": "Chatbot",
+          "imageUrl": "https://scontent.fkhi10-1.fna.fbcdn.net/v/t1.0-9/25289519_160654591357743_4950774172147594281_n.png?oh\u003db730521fa98cae73d0d674f1d171594c\u0026oe\u003d5AEFBCA3",
+          "buttons": [
+            {
+              "text": "View Page",
+              "postback": "https://www.facebook.com/Hazdor/"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hazdor is a self-created name for me.  There is no actual meaning of it. In Cybertron the world of robots there are such names for bots. The name hazdor for me was chosen by my boss as it relates to his name."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514333472,
+  "fallbackIntent": false,
+  "events": []
+}

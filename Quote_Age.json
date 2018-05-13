@@ -1,0 +1,33 @@
+{
+  "id": "c0e33a1f-e79b-4f07-afcc-d91625df5c93",
+  "name": "Quote_Age",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Love has no age, no limit; and no death.",
+            "Let us never know what old age is. Let us know the happiness time brings, not count the years.",
+            "Age is something that doesn\u0027t matter, unless you are a cheese."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513805376,
+  "fallbackIntent": false,
+  "events": []
+}

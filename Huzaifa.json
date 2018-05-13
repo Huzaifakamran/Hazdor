@@ -1,0 +1,29 @@
+{
+  "id": "83a1b3df-11f0-4f65-b0e3-f65e3af145b0",
+  "name": "Huzaifa",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Of course, any doubt???"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514141569,
+  "fallbackIntent": false,
+  "events": []
+}

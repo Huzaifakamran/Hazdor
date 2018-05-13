@@ -1,0 +1,42 @@
+{
+  "id": "aaa520cf-84b9-4669-bb7a-a8e24e19e8ec",
+  "name": "i am",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e3693c89-f3b3-4037-ade4-23c582e25014",
+          "required": false,
+          "dataType": "@peoplename",
+          "name": "peoplename",
+          "value": "$peoplename",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Yo!!! $peoplename",
+            "Nice to meet You $peoplename🙂"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513701804,
+  "fallbackIntent": false,
+  "events": []
+}

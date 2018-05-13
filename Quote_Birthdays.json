@@ -1,0 +1,28 @@
+{
+  "id": "bae1f5cc-2f2e-4ad4-b4e0-2066f92cf2c6",
+  "name": "Quote_Birthdays",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There are two great days in a person\u0027s life - the day we are born and the day we discover why. William Barclay"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513811443,
+  "fallbackIntent": false,
+  "events": []
+}

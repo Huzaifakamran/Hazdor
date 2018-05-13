@@ -1,0 +1,28 @@
+{
+  "id": "76375fdd-b8a1-4b33-8d56-0c04a42cbced",
+  "name": "nice to talk wth u",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Same here..."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514336612,
+  "fallbackIntent": false,
+  "events": []
+}

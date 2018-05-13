@@ -1,0 +1,41 @@
+{
+  "id": "9be221bb-6caf-421a-80d2-43276d2c3f23",
+  "name": "About_Inventor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Huzaifa Kamran, My originator",
+          "replies": [
+            "Show his profiles",
+            "He is doing great"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513803825,
+  "fallbackIntent": false,
+  "events": []
+}

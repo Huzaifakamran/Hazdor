@@ -1,0 +1,28 @@
+{
+  "id": "3d401e8a-2b30-44a2-8e1c-21ece2b548cd",
+  "name": "gf_bf",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I don\u0027t know. I don\u0027t have a family and sympathizers like humans but I have a boss. Huzaifa Kamran"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514335018,
+  "fallbackIntent": false,
+  "events": []
+}

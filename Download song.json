@@ -1,0 +1,52 @@
+{
+  "id": "116a2841-3f2c-4d45-b172-e9904e756d07",
+  "name": "Download song",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "267b2802-42ae-4e99-915f-9ac3f671db52",
+          "dataType": "@Song",
+          "name": "Song",
+          "value": "$Song",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Loudtronix",
+          "subtitle": "Music",
+          "imageUrl": "http://www.aiseesoft.com/images/feature/download-lourtronix-me.jpg",
+          "buttons": [
+            {
+              "text": "Loudtronix",
+              "postback": "https://www.loudtronix.co/search/$Song"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Best Music download website."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514337397,
+  "fallbackIntent": false,
+  "events": []
+}

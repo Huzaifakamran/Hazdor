@@ -1,0 +1,43 @@
+[
+  {
+    "id": "960b5379-38be-4012-a095-cb41342e4141",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for anger",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513810559
+  },
+  {
+    "id": "dee125ce-fe39-4fe9-88d4-f3815e03afdb",
+    "data": [
+      {
+        "text": "Quotation for anger",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513810559
+  },
+  {
+    "id": "61a6c0ee-b1b7-4e5e-b544-f437b6f25f64",
+    "data": [
+      {
+        "text": "Quote about anger",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513810559
+  }
+]

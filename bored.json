@@ -1,0 +1,28 @@
+{
+  "id": "418ace68-c621-4771-9efe-985422193c7e",
+  "name": "bored",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "That\u0027s too rude yaar...I\u0027m just trying to keep you company."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514142049,
+  "fallbackIntent": false,
+  "events": []
+}

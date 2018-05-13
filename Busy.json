@@ -1,0 +1,28 @@
+{
+  "id": "e6ac54e2-efe1-48c8-ac58-a9a688e24917",
+  "name": "Busy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "OK talk you later."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514399689,
+  "fallbackIntent": false,
+  "events": []
+}

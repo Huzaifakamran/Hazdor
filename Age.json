@@ -1,0 +1,28 @@
+{
+  "id": "74245d65-5e27-47d5-9db7-0c64a969ef87",
+  "name": "Age",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I don\u0027t know. I don\u0027t have an age like humans but I have a birthday. Are you planning to get me something?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514334772,
+  "fallbackIntent": false,
+  "events": []
+}

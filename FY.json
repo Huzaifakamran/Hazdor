@@ -1,0 +1,28 @@
+{
+  "id": "f8c4cf68-e32c-4467-97f3-4554174423c4",
+  "name": "FY",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "But 1st u make sure your auzaar have the potential..!!!😂😂"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514409831,
+  "fallbackIntent": false,
+  "events": []
+}

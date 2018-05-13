@@ -1,7 +1,55 @@
 {
-  "id": "e97a75d7-0c35-415f-9440-f60ca8c2dee3",
+  "id": "c769b7b7-025f-4455-b09a-22a282b9a0ec",
   "name": "Country",
-  "isOverridable": true,
-  "isEnum": true,
-  "automatedExpansion": true
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3caec89c-9177-4a8a-8802-bf78d03ac22a",
+          "required": false,
+          "dataType": "@Country",
+          "name": "Country",
+          "value": "$Country",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "$Country",
+          "subtitle": "",
+          "imageUrl": "https://blackbearsolutions.nl/wp-content/uploads/2015/06/22545-1-w855h425.jpg",
+          "buttons": [
+            {
+              "text": "Google",
+              "postback": "https://www.google.com.pk/search?source\u003dhp\u0026ei\u003dAQdEWrGAMcKD6QTpoJu4CA\u0026q\u003d$Country\u0026oq\u003dpri\u0026gs_l\u003dpsy-ab.3.0.35i39k1l2j0i67k1l8.1778.2349.0.3788.4.3.0.0.0.0.397.769.3-2.2.0....0...1c.1.64.psy-ab..2.2.768.0...0.omdlREsMeF0"
+            },
+            {
+              "text": "Wikipedia",
+              "postback": "https://en.wikipedia.org/wiki/$Country"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514406730,
+  "fallbackIntent": false,
+  "events": []
 }

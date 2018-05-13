@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9fe211de-7264-41b9-89f2-2bd52e872706",
+    "data": [
+      {
+        "text": "You are helpfull",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514897540
+  },
+  {
+    "id": "e9c72ccf-ebe4-4c61-a9bb-e3dbc2a280e8",
+    "data": [
+      {
+        "text": "You\u0027re helpful. Thanks.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514897540
+  }
+]

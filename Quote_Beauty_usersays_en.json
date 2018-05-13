@@ -1,0 +1,43 @@
+[
+  {
+    "id": "c4a5d103-752f-4538-8613-bc0ba3d60a0f",
+    "data": [
+      {
+        "text": "Quote for beauty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513811325
+  },
+  {
+    "id": "1531d332-e2c2-493a-a363-cf8e2bc4ea60",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for beauty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513811325
+  },
+  {
+    "id": "2fc59cf6-1105-4f7a-9693-5b80ce5daed6",
+    "data": [
+      {
+        "text": "Quotation about beauty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513811325
+  }
+]

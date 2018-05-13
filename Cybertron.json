@@ -1,0 +1,28 @@
+{
+  "id": "08f21713-7014-4e89-acea-dee34b1bc3a9",
+  "name": "Cybertron",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Bots world"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514416028,
+  "fallbackIntent": false,
+  "events": []
+}

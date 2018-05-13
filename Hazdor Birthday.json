@@ -1,0 +1,28 @@
+{
+  "id": "e7acc5c2-5333-4eee-8c13-3720d3ce246f",
+  "name": "Hazdor Birthday",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I made my debut on Dec 16,2017"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514144046,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,49 @@
+{
+  "id": "90cdfcb1-969f-4b63-b2b4-c91f42531d22",
+  "name": "funny",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "More Jokes",
+          "subtitle": "funny",
+          "imageUrl": "https://i2.wp.com/www.techweez.com/wp-content/uploads/2015/06/emoji-2.png?fit\u003d329%2C329",
+          "buttons": [
+            {
+              "text": "Joke of the day",
+              "postback": "http://www.laughfactory.com/jokes/joke-of-the-day"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "If Justin Timberlake was a librarian, what song would he sing? I\u0027m bringing paperback. Yeah!",
+            "I read a book on anti-gravity once. I couldn\u0027t put it down.",
+            "Alfie was listening to his sister practice her singing. \"Sis,\" he said, \"I wish you\u0027d sing Christmas carols.\" \"That\u0027s nice of you, Alfie,\" she replied, \"but why?\" Alfie replied, \"Because then I\u0027d only have to hear your voice once a year!\"",
+            "When a man opens the car door for his wife, you can be sure of one thing, either the car is new or the wife is."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513552764,
+  "fallbackIntent": false,
+  "events": []
+}

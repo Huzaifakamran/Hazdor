@@ -1,0 +1,28 @@
+{
+  "id": "f4212eeb-79a5-4731-be5e-e56bcca9a48f",
+  "name": "About_Hazdor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hazdor"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513370567,
+  "fallbackIntent": false,
+  "events": []
+}

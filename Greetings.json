@@ -1,0 +1,28 @@
+{
+  "id": "ec605883-230a-4292-92b4-3f61abd6422a",
+  "name": "Greetings",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hi, Hazdor  is always on your assistance."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513369153,
+  "fallbackIntent": false,
+  "events": []
+}

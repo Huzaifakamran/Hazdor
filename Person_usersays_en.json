@@ -1,0 +1,37 @@
+[
+  {
+    "id": "9e5cfbbb-4198-42b5-b959-37ece9393235",
+    "data": [
+      {
+        "text": "Are you a nice person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514631577
+  },
+  {
+    "id": "65c174a3-f34f-483a-bc27-8c9bb1a5332a",
+    "data": [
+      {
+        "text": "You are nice human being",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514631577
+  },
+  {
+    "id": "3f1be662-daf4-405e-9b58-751ccaec5432",
+    "data": [
+      {
+        "text": "Are you a human being",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

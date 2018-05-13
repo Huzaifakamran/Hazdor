@@ -1,0 +1,31 @@
+{
+  "id": "d943e9a0-a37c-437e-89f3-6c62cad13d85",
+  "name": "Quote_Architecture",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "The purpose of art is washing the dust of daily life off our souls. \nPablo Picasso",
+            "The art of communication is the language of leadership. \nJames Humes"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513810963,
+  "fallbackIntent": false,
+  "events": []
+}

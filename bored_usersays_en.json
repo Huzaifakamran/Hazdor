@@ -1,0 +1,38 @@
+[
+  {
+    "id": "96be43d1-feee-4e04-b72a-be6328f33e2b",
+    "data": [
+      {
+        "text": "I am bored",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514142049
+  },
+  {
+    "id": "ade4c8ac-7c17-40c1-80cc-5e0e7bebfb87",
+    "data": [
+      {
+        "text": "Feeling bored",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514142049
+  },
+  {
+    "id": "ca4aba5e-1e62-44d7-a2bb-6e6f6516dd7e",
+    "data": [
+      {
+        "text": "Feel Boring",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514142049
+  }
+]

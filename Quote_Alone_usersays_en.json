@@ -1,0 +1,43 @@
+[
+  {
+    "id": "ae7381d8-d3d3-46e2-aa10-abff76486983",
+    "data": [
+      {
+        "text": "Quotation about alone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513810366
+  },
+  {
+    "id": "9863ab17-9de3-4096-8770-821eda62840c",
+    "data": [
+      {
+        "text": "Quote for alone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513810366
+  },
+  {
+    "id": "aa19dbe1-0256-4f80-aa16-167f1d7530fb",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for alone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513810366
+  }
+]

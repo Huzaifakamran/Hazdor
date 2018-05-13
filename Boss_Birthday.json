@@ -1,0 +1,29 @@
+{
+  "id": "9216f1a0-8ce6-489f-94f6-71b5d823de52",
+  "name": "Boss_Birthday",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "15th July, 1998"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514144664,
+  "fallbackIntent": false,
+  "events": []
+}

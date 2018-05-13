@@ -1,0 +1,28 @@
+{
+  "id": "d338c596-e75f-4abb-935d-e57c09164e81",
+  "name": "Fool",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sad to hear that...  \"Being nice with others can make them happy and it makes your soul beautiful\" so we should act nice and kind with others."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514334050,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,43 @@
+[
+  {
+    "id": "3308775c-ff3b-419e-a416-30f447833e24",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for birthday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513811443
+  },
+  {
+    "id": "52a07c4e-4670-42f4-ba2f-dcb20a4b23a1",
+    "data": [
+      {
+        "text": "Quotation about birthday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513811443
+  },
+  {
+    "id": "a7247907-0202-4b02-ad07-fd5a8259308f",
+    "data": [
+      {
+        "text": "Quote for birthday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513811443
+  }
+]

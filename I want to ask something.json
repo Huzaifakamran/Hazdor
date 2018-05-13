@@ -1,0 +1,28 @@
+{
+  "id": "cc989353-d08b-4080-af72-39e24a457480",
+  "name": "I want to ask something",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I am here to answer your queries.."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514369870,
+  "fallbackIntent": false,
+  "events": []
+}

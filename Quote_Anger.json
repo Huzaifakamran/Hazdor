@@ -1,0 +1,32 @@
+{
+  "id": "ce50288d-c37e-4918-a44f-cd5aae40e548",
+  "name": "Quote_Anger",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "You will not be punished for your anger, you will be punished by your anger. \nBuddha",
+            "For every minute you remain angry, you give up sixty seconds of peace of mind. \nRalph Waldo Emerson",
+            "Speak when you are angry - and you\u0027ll make the best speech you\u0027ll ever regret.\n Laurence J. Peter"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513810559,
+  "fallbackIntent": false,
+  "events": []
+}

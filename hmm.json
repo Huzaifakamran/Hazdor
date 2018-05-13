@@ -1,0 +1,28 @@
+{
+  "id": "d5b5a17d-4660-48db-8f57-54a34ae2c862",
+  "name": "hmm",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "🙂🙂"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514336485,
+  "fallbackIntent": false,
+  "events": []
+}

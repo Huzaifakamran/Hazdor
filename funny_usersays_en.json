@@ -1,0 +1,59 @@
+[
+  {
+    "id": "ed831bd1-7c12-422a-944a-28ec8d33f85e",
+    "data": [
+      {
+        "text": "Funny jokes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e6990dd5-11d0-42ba-87f0-f2cd0065b374",
+    "data": [
+      {
+        "text": "Can u tell me something funny",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513552764
+  },
+  {
+    "id": "5e4bd83e-7e4c-46d3-aec9-b04574ad5bca",
+    "data": [
+      {
+        "text": "Tell me some jokes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f02def24-6c44-4e8a-ad8e-8a8ac3a3d032",
+    "data": [
+      {
+        "text": "Can u tell me some jokes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "26a63adf-9f22-4fd3-8c0c-181591d789f1",
+    "data": [
+      {
+        "text": "Tell me something funny",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513552764
+  }
+]

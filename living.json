@@ -1,0 +1,29 @@
+{
+  "id": "f20c8c72-5134-483d-9001-2614480f999f",
+  "name": "living",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Cybertron(Robots world)...!!!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514632101,
+  "fallbackIntent": false,
+  "events": []
+}

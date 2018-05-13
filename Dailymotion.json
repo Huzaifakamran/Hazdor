@@ -1,0 +1,28 @@
+{
+  "id": "4cd5ed91-333e-4e36-a378-1d0e012f7ed7",
+  "name": "Dailymotion",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Dailymotion\nhttps://www.dailymotion.com/pk"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514549378,
+  "fallbackIntent": false,
+  "events": []
+}

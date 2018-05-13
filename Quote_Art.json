@@ -1,0 +1,28 @@
+{
+  "id": "9348b563-a8d4-4b59-b146-3f1293cd5f35",
+  "name": "Quote_Art",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The purpose of art is washing the dust of daily life off our souls.\n Pablo Picasso"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513810835,
+  "fallbackIntent": false,
+  "events": []
+}

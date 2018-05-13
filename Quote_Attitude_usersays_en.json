@@ -1,0 +1,43 @@
+[
+  {
+    "id": "0fdc55c6-8555-481f-b166-bfcfb1052508",
+    "data": [
+      {
+        "text": "Quote about attitude",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513811136
+  },
+  {
+    "id": "6222290b-f2da-411f-9594-925b543f53f5",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for attitude",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513811136
+  },
+  {
+    "id": "69595972-4c99-4272-877d-a8d016d9b330",
+    "data": [
+      {
+        "text": "Quotation about attitude",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513811136
+  }
+]

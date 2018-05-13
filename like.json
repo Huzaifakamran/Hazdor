@@ -1,0 +1,28 @@
+{
+  "id": "0b2f9a05-febd-48e7-937b-4cf433db4d7a",
+  "name": "like",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "That\u0027s good.."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514336933,
+  "fallbackIntent": false,
+  "events": []
+}

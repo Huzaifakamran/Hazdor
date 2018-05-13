@@ -1,0 +1,28 @@
+{
+  "id": "ffadf1b0-2f6b-4233-b26e-cfd975eaef72",
+  "name": "Description",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hazdor! Chatbot... I am capable of intelligent behavior. I can change your mood by telling you the jokes and humorous quotes. If you are getting bored you can have a conversation with me. I am capable of searching songs for you on youtube and Dailymotion. If you want to get socialized I can also find new contacts for you on Facebook. You can also search people on Google and Wikipedia through me"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518852726,
+  "fallbackIntent": false,
+  "events": []
+}

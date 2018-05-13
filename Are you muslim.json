@@ -1,0 +1,28 @@
+{
+  "id": "65c2d62c-5b0b-4815-a679-714aece9db83",
+  "name": "Are you muslim",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I believe in the religion of Islam. I believe in Allah and peace."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514410144,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": "c67ca02c-9a85-40ec-8224-4e7fe1b8f7cb",
+  "name": "quotation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Also see quotes from top search topics",
+          "replies": [
+            "Attitude",
+            "Beauty",
+            "Education",
+            "Friendship",
+            "Intelligence",
+            "Knowledge",
+            "Leadership",
+            "Love",
+            "Life",
+            "Music"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "There is only one happiness in this life, to love and be loved. George Sand",
+            "Love yourself. It is important to stay positive because beauty comes from the inside out."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513803003,
+  "fallbackIntent": false,
+  "events": []
+}

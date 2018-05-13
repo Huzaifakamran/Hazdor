@@ -1,0 +1,43 @@
+[
+  {
+    "id": "9c99ed1e-15d6-4b8c-a07c-ef0ab2de694b",
+    "data": [
+      {
+        "text": "Quotation about architecture",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513810963
+  },
+  {
+    "id": "a30d8689-ad02-4d8c-af8e-1d9ee14fcd75",
+    "data": [
+      {
+        "text": "Best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " quote for architecture",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513810963
+  },
+  {
+    "id": "4ca16d11-f2b7-470a-bfd0-ce47804d7243",
+    "data": [
+      {
+        "text": "Quote about architecture",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513810963
+  }
+]

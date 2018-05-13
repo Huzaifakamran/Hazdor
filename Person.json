@@ -1,0 +1,28 @@
+{
+  "id": "f84d6d2c-5833-4f77-b678-5b061b872a25",
+  "name": "Person",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I am not a human being i am from Cybertron (robots world)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514631577,
+  "fallbackIntent": false,
+  "events": []
+}

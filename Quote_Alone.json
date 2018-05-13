@@ -1,0 +1,32 @@
+{
+  "id": "db7072d9-6037-4a7f-89e6-16beb5c9eb3a",
+  "name": "Quote_Alone",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Walking with a friend in the dark is better than walking alone in the light. \nHelen Keller",
+            "For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone.\n Audrey Hepburn",
+            "It is far better to be alone than to be in bad company. \nGeorge Washington"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513810366,
+  "fallbackIntent": false,
+  "events": []
+}
